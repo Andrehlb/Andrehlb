@@ -27,7 +27,6 @@
 
 <h1/> André Luiz Barbosa | Andrehlb´s Profile<h1/>
 
-# André Luiz Barbosa´s Profile
 [**GRAD AND STACKS**](#andré-luiz-barbosa´s-profile)
 
  **Index Grad and Plus formation**
