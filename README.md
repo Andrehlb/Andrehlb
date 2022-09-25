@@ -38,7 +38,7 @@
 * PhD at ESALQ/USP, SP;
 
 [**COMPUTER AND STACKS FORMATION:**](#andré-luiz-barbosas-profile)
-- Fortran, Pascal and C at Microcamp, SJRio Preto, SP, 1992;
+
 - R language at ESALQ/USP, Piracicaba, SP, 2011-2012;
 - Java, remote learning, SP, April/2022:
  
