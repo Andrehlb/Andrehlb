@@ -29,10 +29,11 @@
   <a href = "mailto:andrehlbarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-<h2 align = "center" size = 5px> André Luiz Barbosa | Andrehlb´s Profile <h2/>
+<h2 align = "center"> André Luiz Barbosa | Andrehlb´s Profile <h2/>
 
 [**GRAD AND STACKS**](#andré-luiz-barbosa´s-profile)
 
+<h3>
  **Index Grad and Plus formation**
 
 [**BIOLOGY AND BIOTECHNOLOGY GRAD/POST GRAD:**](#andré-luiz-barbosas-profile)
@@ -57,7 +58,7 @@
     * RocketSeat: Front-End | JS, CSS
 
 - R language at ESALQ/USP, Piracicaba, SP (2011-2014);
-
+</h3>
 
 <p align = "center">
   <a href="https://app.daily.dev/Andrehlb"><img src="https://api.daily.dev/devcards/641655384bb14ec4951127a632b5793c.png?r=9wx" width="200" alt="Andre Luiz Barbosa's Dev Card"/></a>
