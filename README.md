@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/andrehlb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h2/ align = "center"> André Luiz Barbosa | Andrehlb´s Profile <h2/>
+<h2 align = "center"> André Luiz Barbosa | Andrehlb´s Profile <h2/>
 
 [**GRAD AND STACKS**](#andré-luiz-barbosa´s-profile)
 
