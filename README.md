@@ -29,7 +29,7 @@
   <a href = "mailto:andrehlbarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-<h2 align = "center"> André Luiz Barbosa | Andrehlb´s Profile <h2/>
+<h2 align = "center" size: 14px> André Luiz Barbosa | Andrehlb´s Profile <h2/>
 
 [**GRAD AND STACKS**](#andré-luiz-barbosa´s-profile)
 
