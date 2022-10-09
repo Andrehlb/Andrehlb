@@ -1,10 +1,10 @@
 ## Hello Devs, my name is André Luiz Barbosa as user Andrehlb.
-<div align="center">
+<div align = "center">
   <a href="https://github.com/Andrehlb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrehlb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrehlb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div alingn = "center">
+<div align = "center">
   <p style="display: inline_block"><br>
   <img align="center" alt="Andrehlb-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Andrehlb-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
