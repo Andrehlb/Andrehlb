@@ -1,4 +1,4 @@
-<h1/ align = "center"> ## Hello Devs, my name is André Luiz Barbosa as user Andrehlb. </h1>
+<h1 align = "center"> ## Hello Devs, my name is André Luiz Barbosa as user Andrehlb. </h1>
 <div align = "center">
   <a href="https://github.com/Andrehlb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrehlb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/andrehlb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h1/ align = "center"> André Luiz Barbosa | Andrehlb´s Profile<h1/>
+<h2/ align = "center"> André Luiz Barbosa | Andrehlb´s Profile <h2/>
 
 [**GRAD AND STACKS**](#andré-luiz-barbosa´s-profile)
 
