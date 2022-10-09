@@ -39,23 +39,20 @@
 
 [**COMPUTER AND STACKS FORMATION:**](#andré-luiz-barbosas-profile)
 
-- R language at ESALQ/USP, Piracicaba, SP, 2011-2012;
-- Java, remote learning, SP, April/2022:
- 
-    * Let´s Code
-    * IBM by Coursera 
-    * Start.Se
-    * CapGemini
-
-* Front-End stack, remote learning, SP, April/2022:
-  * Let´s Code;
-  * IBM by Coursera
-  * Digital Innovation
-  * Alura
-  * RocketSeat
-
-* Full-Stack in progress:
+- Full-Stack in progress (Apr/2022):
   * EMBRAER Bootcamp by XP Educaiton start in September, 29, 2022.
+
+- Code Dev Grads:
+    * Embraer Tech:  Data Science Development  | Python langague | DB AWS, Azure, Google GPC
+    * Let´s Code: Back-End Java | Data Science SQL
+    * Dio.me: Front-End JS | HTML | CSS
+    * IBM by Coursera: Web Development
+    * Start.Se: Web Development
+    * CapGemini: Back-End Java
+    * Alura: Flutter Mobile dev
+    * RocketSeat: Front-End | JS, CSS
+
+- R language at ESALQ/USP, Piracicaba, SP (2011-2014);
 
 
 <a href="https://app.daily.dev/Andrehlb"><img src="https://api.daily.dev/devcards/641655384bb14ec4951127a632b5793c.png?r=9wx" width="400" alt="Andre Luiz Barbosa's Dev Card"/></a>
