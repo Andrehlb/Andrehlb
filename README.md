@@ -45,17 +45,17 @@
 [**COMPUTER AND STACKS FORMATION:**](#andré-luiz-barbosas-profile)
 
 - Full-Stack in progress (Apr/2022):
-  * EMBRAER Bootcamp by XP Educaiton start in September, 29, 2022.
+  * EMBRAER Bootcamp by XP Educaiton (starterd in september, 29, 2022).
 
 - Code Dev Grads:
-    * Embraer Tech:  Data Science Development  | Python langague | DB AWS, Azure, Google GPC
-    * Let´s Code: Back-End Java | Data Science SQL
-    * Dio.me: Front-End JS | HTML | CSS
-    * IBM by Coursera: Web Development
-    * Start.Se: Web Development
-    * CapGemini: Back-End Java
-    * Alura: Flutter Mobile dev
-    * RocketSeat: Front-End | JS, CSS
+    * Embraer Tech:  Data Science Development  | Python langague | DB AWS, Azure, Google GPC;
+    * Let´s Code: Back-End Java | Data Science SQL;
+    * Dio.me: Front-End JS | HTML | CSS;
+    * IBM by Coursera: Web Development;
+    * Start.Se: Web Development;
+    * CapGemini: Back-End Java;
+    * Alura: Flutter Mobile dev;
+    * RocketSeat: Front-End | JS, CSS;
 
 - R language at ESALQ/USP, Piracicaba, SP (2011-2014);
 </h3>
