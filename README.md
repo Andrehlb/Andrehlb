@@ -34,7 +34,7 @@
 [**GRAD AND STACKS**](#andré-luiz-barbosa´s-profile)
 
 <h3>
- **Index Grad and Plus formation**
+ Index Grad and Plus formation
 
 [**BIOLOGY AND BIOTECHNOLOGY GRAD/POST GRAD:**](#andré-luiz-barbosas-profile)
 
