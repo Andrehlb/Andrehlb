@@ -57,7 +57,7 @@
     * Alura: Flutter Mobile dev;
     * RocketSeat: Front-End | JS, CSS;
 
-- R language at ESALQ/USP, Piracicaba, SP (2011-2014);
+- R language for data analysis at ESALQ/USP, Piracicaba, SP (2011-2014);
 </h3>
 
 <p align = "center">
