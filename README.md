@@ -44,21 +44,20 @@
 
 [**COMPUTER AND STACKS FORMATION:**](#andré-luiz-barbosas-profile)
 
-- Full-Stack (Apr/2022):
-- Data Science:
-  * EMBRAER XPEducation (started in september, 29, 2022 and finished in Jan, 15, 2023).
-
-- Code Dev Grads:
-    * Alura | Grupo Boticário | Desenvolve 2023 - Data Science (Jan, 13 at August, 24, 2023);
-    * Embraer Tech:  Data Science Development  | Python langague | DB AWS, Azure, Google GPC;
-    * Let´s Code: Back-End Java | Data Science SQL;
+- Full-Stack (Apr/2022)
+ Let´s Code: Back-End Java | Data Science SQL;
     * Dio.me: Front-End JS | HTML | CSS;
     * IBM by Coursera: Web Development;
     * Start.Se: Web Development;
     * CapGemini: Back-End Java;
     * Alura: Flutter Mobile dev;
     * RocketSeat: Front-End | JS, CSS;
+- Data Science:
+  * EMBRAER XPEducation (started in september, 29, 2022 and finished in Jan, 15, 2023).
 
+- Code Dev Grads:
+    * Alura | Grupo Boticário | Desenvolve 2023 - Data Science (Jan, 13 at August, 24, 2023);
+   
 - R language for bioinformatic data analysis at ESALQ/USP, Piracicaba, SP (2011-2014);
 </h3>
 
