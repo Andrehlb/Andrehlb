@@ -49,6 +49,7 @@
   * EMBRAER XPEducation (starterd in september, 29, 2022 and finished in Jan, 15, 2023).
 
 - Code Dev Grads:
+    * Desenvolve 2023 - Grupo Boticário | Alura
     * Embraer Tech:  Data Science Development  | Python langague | DB AWS, Azure, Google GPC;
     * Let´s Code: Back-End Java | Data Science SQL;
     * Dio.me: Front-End JS | HTML | CSS;
