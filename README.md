@@ -43,6 +43,10 @@
 * PhD at ESALQ/USP, SP;
 
 [**COMPUTER AND STACKS FORMATION:**](#andré-luiz-barbosas-profile)
+                    
+- Data Science:
+  * Alura | Grupo Boticário | Desenvolve 2023 - Data Science (Jan, 13 at August, 24, 2023);
+  * EMBRAER XPEducation (started in september, 29, 2022 and finished in Jan, 15, 2023).
 
 - Full-Stack (Apr/2022)
     * Let´s Code: Back-End: Python and Java;
@@ -52,11 +56,6 @@
     * Start.Se: Web Development;
     * RocketSeat: Front-End | JS, CSS;
     * Alura: Flutter Mobile dev;
-    
-- Data Science:
-  * Alura | Grupo Boticário | Desenvolve 2023 - Data Science (Jan, 13 at August, 24, 2023);
-  * EMBRAER XPEducation (started in september, 29, 2022 and finished in Jan, 15, 2023).
-  
    
 - R language for bioinformatic data analysis at ESALQ/USP, Piracicaba, SP (2011-2014);
 </h3>
