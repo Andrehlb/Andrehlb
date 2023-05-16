@@ -45,7 +45,7 @@
 [**COMPUTER AND STACKS FORMATION:**](#andré-luiz-barbosas-profile)
                     
 - Data Science:
-  * Alura | Grupo Boticário | Desenvolve 2023 - Data Science (Jan, 13 at August, 24, 2023);
+  * Alura | Grupo Boticário | Desenvolve 2023 (Jan, 13 at August, 24, 2023);
   * EMBRAER XPEducation (started in september, 29, 2022 and finished in Jan, 15, 2023).
 
 - Full-Stack (Apr/2022)
