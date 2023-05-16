@@ -46,7 +46,7 @@
 
 - Full-Stack (Apr/2022):
 - Data Science:
-  * EMBRAER XPEducation (starterd in september, 29, 2022 and finished in Jan, 15, 2023).
+  * EMBRAER XPEducation (started in september, 29, 2022 and finished in Jan, 15, 2023).
 
 - Code Dev Grads:
     * Alura | Grupo Boticário | Desenvolve 2023 - Data Science (Jan, 13 at August, 24, 2023);
