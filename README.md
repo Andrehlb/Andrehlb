@@ -9,11 +9,14 @@
   <p style="display: inline_block"><br>
   <a href = "#java-projects">
   <img align="center" alt="Andrehlb-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    </a>
-  <a href = "https://github.com/Andrehlb/Workspace.git" target = "_blank"><img align="center" alt="Andrehlb-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   </a>
+   <a href= "workspace-projects">
+  <img align="center" alt="Andrehlb-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <a/>
   <a href = "py-projects">
   <img align="center" alt="Andrehlb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
+    <a href="js-projects">
   <img align="center" alt="Andrejlb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   <a href = "https://github.com/Andrehlb/WebDevelpment.git" target = "_blank"><img align="center" alt="Andrehlb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -77,11 +80,14 @@
 - [Project 2](https://github.com/Andrehlb/project-2)
 - [Project 3](https://github.com/Andrehlb/project-3)
 
-##<a id="dart-projects"></a>My Dart-Flutter Projects
-- [Project 1](https://github.com/Andrehlb/ScriboSoftwareDev/tree/7cbe68f979d4ba5d1bf1785c3d35e72f75ec104e/DartFiles)
+##<a id="workspaces-projects"></a>My WorkSpaces Projects
+- [Codes in Python, HTML, Java] (https://github.com/Andrehlb/Workspace.git)
 
 ##<a id= "py-projects"></a>My Python Projects
 - [Demonstração de Tipos de Dados em Python](https://github.com/Andrehlb/Workspace/blob/fbb710b9b64560c60acaf180202de51b1ce94291/GitHub/Python/C%C3%B3digo%20Python%20Jupyter/Untitled.ipynb)
+
+##<a id="dart-projects"></a>My Dart-Flutter Projects
+- [Project 1](https://github.com/Andrehlb/ScriboSoftwareDev/tree/7cbe68f979d4ba5d1bf1785c3d35e72f75ec104e/DartFiles)
 
 ##<a id = "html-projects></a>My HTML Projects
 - [Esqueleto básico de HTML com elementos div](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/GitHub/JavaScript/BasicHTMLStructureWithDivElements.html)
