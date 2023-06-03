@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrehlb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrehlb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <p> Tap on esche icon to navigate to the respective code project </p>
+  <h2 align = "center"> Please tap to the Badges-code to navigate to the respective code project </h2>
 <div align = "center">
   <p style="display: inline_block"><br>
   <a href = "#java-projects">
