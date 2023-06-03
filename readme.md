@@ -85,11 +85,19 @@
 - [Codes in Python, HTML, Java](https://github.com/Andrehlb/Workspace.git)
 
 ##<a id="py-projects"></a>My Python Projects
-- [Demonstração de Tipos de Dados em Python](https://github.com/Andrehlb/Workspace/blob/fbb710b9b64560c60acaf180202de51b1ce94291/GitHub/Python/C%C3%B3digo%20Python%20Jupyter/Untitled.ipynb)
+- [Demonstração de Tipos de Dados, em Python](https://github.com/Andrehlb/Workspace/blob/fbb710b9b64560c60acaf180202de51b1ce94291/GitHub/Python/C%C3%B3digo%20Python%20Jupyter/Untitled.ipynb)
+
+##<a id="#js-projects"></a>My JavaScript Projects
+- [Explorando a Manipulação de Arrays e Strings, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/ExecicioArrayJS/arrayPosicao.js)
+- [Calculadora de Impostos de Vendas de Produtos por Estado, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/execEstadosJS/impostoAlicotaEstado.js)
+- [Aplicação de Impostos a um Produto para Diferentes Estados, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/alicotaImpostoEstados.js)
+- []()
 
 ##<a id="dart-projects"></a>My Dart-Flutter Projects
 - [Project 1](https://github.com/Andrehlb/ScriboSoftwareDev/tree/7cbe68f979d4ba5d1bf1785c3d35e72f75ec104e/DartFiles)
 
 ##<a id="html-projects"></a>My HTML Projects
-- [Esqueleto básico de HTML com elementos div](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/GitHub/JavaScript/BasicHTMLStructureWithDivElements.html)
 - [Andrehlb´s Profile code](https://github.com/Andrehlb/Andrehlb.github.io.git)
+- [Esqueleto básico de HTML com elementos div](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/GitHub/JavaScript/BasicHTMLStructureWithDivElements.html)
+- [Estrutura Básica, Explorando Tags em HTML, com Comentários](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principais_tags_html_p1.html)
+- [Estrutura HTML Básica com Scripts Assíncronos, Compatibilidade CrossBrowser e Metadado](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principaisTagHTMLp2.html)
