@@ -6,8 +6,9 @@
 </div>
 <div align = "center">
   <p style="display: inline_block"><br>
-  <a href = "https://github.com/Andrehlb/Java.git" target = "_blank">
+  <a href = "java-projects">
   <img align="center" alt="Andrehlb-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    </a>
   <a href = "https://github.com/Andrehlb/Workspace.git" target = "_blank"><img align="center" alt="Andrehlb-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Andrehlb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andrejlb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
