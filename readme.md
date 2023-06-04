@@ -101,3 +101,6 @@
 - [Esqueleto básico de HTML com elementos div](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/GitHub/JavaScript/BasicHTMLStructureWithDivElements.html)
 - [Estrutura Básica, Explorando Tags em HTML, com Comentários](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principais_tags_html_p1.html)
 - [Estrutura HTML Básica com Scripts Assíncronos, Compatibilidade CrossBrowser e Metadado](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principaisTagHTMLp2.html)
+
+
+![Snake animation](https://github.com/Andrehlb/Andrehlb/blob/output/github-contribution-grid-snake.svg)
