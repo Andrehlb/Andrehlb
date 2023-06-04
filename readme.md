@@ -56,8 +56,6 @@
 </div>
 
 
-<h2 align = "center"> André Luiz Barbosa | Andrehlb´s Profile <h2/>
-
 [**GRAD AND STACKS**](#andré-luiz-barbosa´s-profile)
 
 <h3>
