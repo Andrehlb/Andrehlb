@@ -103,7 +103,14 @@
 - [Explorando Tags HTML 2 - Continuing with the advanced process](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principaisTagHTMLp2.html)
 - [Estrutura HTML Básica com Scripts Assíncronos, Compatibilidade CrossBrowser e Metadado](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principaisTagHTMLp2.html)
 
+#snk
 
 ![snake svg](https://github.com/Andrehlb/Andrehlb/blob/output/github-contribution-grid-snake.svg)
+
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
 ![sk-platane](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
