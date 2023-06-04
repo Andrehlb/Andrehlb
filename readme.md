@@ -47,7 +47,8 @@
  <a href="https://discordapp.com/users/Andrehlb#7664" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:andrehlbarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
-<div align = "center">
+
+
 <h2 align = "center"> André Luiz Barbosa | Andrehlb´s Profile <h2/>
 
 [**GRAD AND STACKS**](#andré-luiz-barbosa´s-profile)
@@ -113,5 +114,4 @@
 - [Explorando Tags HTML 2 - Continuing with the advanced process](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principaisTagHTMLp2.html)
 - [Estrutura HTML Básica com Scripts Assíncronos, Compatibilidade CrossBrowser e Metadado](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principaisTagHTMLp2.html)
 
-![snake svg](https://raw.githubusercontent.com/Andrehlb/Andrehlb/blob/output/github-contribution-grid-snake.svg)
 
