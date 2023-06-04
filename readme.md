@@ -113,4 +113,4 @@
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-![sk-Andrehlb](https://raw.githubusercontent.com/Andrehlb/Andrehlb/snk/output/github-contribution-grid-snake.svg)
+![sk-Platane](https://raw.githubusercontent.com/platane/platane/snk/output/github-contribution-grid-snake.svg)
