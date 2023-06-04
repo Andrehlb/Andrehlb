@@ -26,7 +26,15 @@
   <img align="center" alt="Andrehlb-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   </P>
 </div>
-  
+  ##
+    [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Andrehlb/Andrehlb/main.yml?label=action&style=flat-square)](https://github.com/Andrehlb/Andrehlb/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
+![sk-Platane](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
   ##
   <h3 align = "center">Bellow my Social networks</h3> 
 <div align = "center">
@@ -107,10 +115,3 @@
 
 ![snake svg](https://github.com/Andrehlb/Andrehlb/workflow/output/github-contribution-grid-snake.svg)
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Andrehlb/Andrehlb/main.yml?label=action&style=flat-square)](https://github.com/Andrehlb/Andrehlb/actions/workflows/main.yml)
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-
-![sk-Platane](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
