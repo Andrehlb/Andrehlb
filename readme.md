@@ -101,7 +101,7 @@
 - [Modelagem Lógica](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/Embraer_MtSQL-WorkBrench_LogicalModel_Aula2-2-1-ModelagemER_Mod01FundBD.mwb)
 - [Modelagm Lógica e Python Code](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/MySQL-ERW-26092022.mwb)
 - [MySQLWorkBrench_LogicalModel](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/script_Embraer_Aula2-2-1-ModelagemER.sql)
-- [Criação das Listas;  e Acesso dos Elementos; Resolvendo problema de encontrar a maior idade, usando listas](https://github.com/Andrehlb/DataScience_Embraer/blob/1af3a1673dc7ed616eb0f527649c07623f743032/Python_DS/Embraer_Python/capitulo05_aula02.ipynb)
+- [Criação das Listas e Acesso dos Elementos; Resolvendo problema de encontrar a maior idade, usando listas](https://github.com/Andrehlb/DataScience_Embraer/blob/1af3a1673dc7ed616eb0f527649c07623f743032/Python_DS/Embraer_Python/capitulo05_aula02.ipynb)
 
 
 ##<a id="py-projects"></a>My Python Projects
