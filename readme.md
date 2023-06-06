@@ -97,8 +97,12 @@
 - [Project 2](https://github.com/Andrehlb/project-2)
 - [Project 3](https://github.com/Andrehlb/project-3)
 
-##<a id="dataScience-projects"></a>My Data Science
-- [Codes in Python, HTML, Java](https://github.com/Andrehlb/Workspace.git)
+##<a id="dataScience-projects"></a>My Data Science Projects (Python, JupiterNoteBook, MySQL, SQL)
+- [Modelagem Lógica](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/Embraer_MtSQL-WorkBrench_LogicalModel_Aula2-2-1-ModelagemER_Mod01FundBD.mwb)
+- [Modelagm Lógica e Python Code](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/MySQL-ERW-26092022.mwb)
+- [MySQLWorkBrench_LogicalModel](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/script_Embraer_Aula2-2-1-ModelagemER.sql)
+- [Criação das Listas;  e Acesso dos Elementos; Resolvendo problema de encontrar a maior idade, usando listas](https://github.com/Andrehlb/DataScience_Embraer/blob/1af3a1673dc7ed616eb0f527649c07623f743032/Python_DS/Embraer_Python/capitulo05_aula02.ipynb)
+
 
 ##<a id="py-projects"></a>My Python Projects
 - [Demonstração de Tipos de Dados, em Python](https://github.com/Andrehlb/Workspace/blob/fbb710b9b64560c60acaf180202de51b1ce94291/GitHub/Python/C%C3%B3digo%20Python%20Jupyter/Untitled.ipynb)
@@ -118,5 +122,6 @@
 - [Estrutura Básica, Explorando Tags em HTML 1, com Comentários](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principais_tags_html_p1.html)
 - [Explorando Tags HTML 2 - Continuing with the advanced process](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principaisTagHTMLp2.html)
 - [Estrutura HTML Básica com Scripts Assíncronos, Compatibilidade CrossBrowser e Metadado](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principaisTagHTMLp2.html)
+- [A Web page that uses the PyScript library to execute some Python code.](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/PyScript/pyscript_1st.html)
 
 
