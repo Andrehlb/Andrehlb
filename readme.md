@@ -12,7 +12,7 @@
   <a href = "#java-projects">
   <img align="center" alt="Andrehlb-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
    </a>
-   <a href = "#workspace-projects">
+   <a href = "#dataScience-projects">
   <img align="center" alt="Andrehlb-Data Science | Dados" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <a/>
   <a href = "#py-projects">
@@ -97,7 +97,7 @@
 - [Project 2](https://github.com/Andrehlb/project-2)
 - [Project 3](https://github.com/Andrehlb/project-3)
 
-##<a id="workspace-projects"></a>My WorkSpaces Projects
+##<a id="dataScience-projects"></a>My Data Science
 - [Codes in Python, HTML, Java](https://github.com/Andrehlb/Workspace.git)
 
 ##<a id="py-projects"></a>My Python Projects
