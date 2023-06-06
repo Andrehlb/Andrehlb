@@ -13,7 +13,7 @@
   <img align="center" alt="Andrehlb-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
    </a>
    <a href = "#workspace-projects">
-  <img align="center" alt="Andrehlb-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Andrehlb-Data Science | Dados" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <a/>
   <a href = "#py-projects">
   <img align="center" alt="Andrehlb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
