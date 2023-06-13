@@ -75,7 +75,8 @@
 - Degree: Programming Junior T5 - ONE - 71hs started May, 2023.
                     
 - Data Science:
-  * Alura | Grupo Boticário | Desenvolve 2023 (Jan, 13 at August, 24, 2023);
+  - [* Alura | Grupo Boticário | Desenvolve 2023 (Jan, 13 at August, 24, 2023);]
+(https://github.com/Andrehlb/desenvolve2023.github.io.git)
   * EMBRAER XPEducation (Started on September 29, 2022, and finished on January 15, 2023).
 
 - Full-Stack (Apr/2022)
