@@ -72,7 +72,7 @@
 
 [**COMPUTER AND STACKS FORMATION:**](#andré-luiz-barbosas-profile)
 
-- Degree: Programming Junior T5 - ONE - 71hs started May, 2023.
+  - Degree: Programming Junior T5 - ONE - 71hs started May, 2023.
                     
 - Data Science:
   - [Alura | Grupo Boticário | Desenvolve 2023 (Jan, 13 at August, 24, 2023);](https://github.com/Andrehlb/desenvolve2023.github.io.git)
