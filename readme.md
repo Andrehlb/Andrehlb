@@ -101,6 +101,7 @@
 - [Project 3](https://github.com/Andrehlb/project-3)
 
 ##<a id="dataScience-projects"></a>My Data Science Projects (Python, JupiterNoteBook, MySQL, SQL)
+- [Solving optimization problems using Binary Integer Programming (BIP)](https://github.com/Andrehlb/Bootcamp-OTM-ENACOM.git)
 - [Modelagem Lógica](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/Embraer_MtSQL-WorkBrench_LogicalModel_Aula2-2-1-ModelagemER_Mod01FundBD.mwb)
 - [Modelagm Lógica e Python Code](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/MySQL-ERW-26092022.mwb)
 - [MySQLWorkBrench_LogicalModel](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/script_Embraer_Aula2-2-1-ModelagemER.sql)
