@@ -77,7 +77,7 @@
   - [EMBRAER XPEducation (Started on September 29, 2022, and finished on January 15, 2023).](https://github.com/Andrehlb/DataScience_Embraer.git)
 
 - Front-End
-  - Degree: IBM - MasterTech - Match! program.
+  - Degree: IBM - MasterTech - Match! , started July, 2023.
                     
 - Full-Stack (Apr/2022)
     * Let´s Code: Back-End: Python and Java;
