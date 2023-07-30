@@ -66,7 +66,7 @@
 
 [**BIOLOGY AND BIOTECHNOLOGY GRAD/POST GRAD:**](#andré-luiz-barbosas-profile)
 
-* Biology at IBILCE/UNESP, SP;
+* [Biology at IBILCE/UNESP, SP;](assets-Grad-postGrad/gradIBILCE_UNESP)
 * MsC at ESLAQ/USP, SP;
 * PhD at ESALQ/USP, SP;
 
