@@ -1,4 +1,7 @@
 <h1 align = "center">Hello Coder friend, <br>my name is André Luiz Barbosa as Andrehlb user. </h1>
+
+<h2 align = "center"> I´m a Biotechnologist, Data Scientist and Developer! </h2>
+
 <div align = "center"
   <a href="https://github.com/Andrehlb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrehlb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -66,7 +69,7 @@
 
 [**BIOLOGY AND BIOTECHNOLOGY GRAD/POST GRAD:**](#andré-luiz-barbosas-profile)
 
-* [Biology at IBILCE/UNESP, SP;](assets-Grad-postGrad/gradIBILCE_UNESP)
+* [Biology at IBILCE/UNESP, SP;](assets-Grad-postGrad/gradIBILCE_UNESP/diplomaBiologiaGradUNESP-Frente.png)
 * MsC at ESLAQ/USP, SP;
 * PhD at ESALQ/USP, SP;
 
