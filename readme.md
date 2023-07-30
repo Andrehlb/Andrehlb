@@ -1,4 +1,4 @@
-<h1 align = "center">Hello Coder friend, <br>my name is André Luiz Barbosa as Andrehlb user. </h1>
+<h1 align = "center">Hello Coder friend, <br>my name is André Luiz Barbosa as Andrehlb GitHub user. </h1>
 
 <h2 align = "center"> I´m a Biotechnologist, Data Scientist and Developer! </h2>
 
