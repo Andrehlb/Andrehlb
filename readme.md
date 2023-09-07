@@ -60,28 +60,31 @@
   <a href = "mailto:andrehlbarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-<h2 align = "center"> André Luiz Barbosa | Andrehlb´s Profile <h2/>
+## <div align = "center"> André Luiz Barbosa | Andrehlb´s Profile </div>
 
-[**GRAD AND STACKS**](#andré-luiz-barbosa´s-profile)
+### <div align = "center"> [**GRAD AND STACKS**](#andré-luiz-barbosa´s-profile) </div>
 
-<h3>
- Index Grad and Plus formation
+#### <div align = "center"> Index of <br> Postgraduate and Undergraduate Education</div>
 
-[**BIOLOGY AND BIOTECHNOLOGY GRAD/POST GRAD:**](#andré-luiz-barbosas-profile)
+##### **Postgrad Education:**
+- [Data Science Postgraduate Program at Univitória, ES; (ongoing, 2023)](assets-Grad-postGrad/PostGrad_Univitoria_ES/)
+- [MsC at ESLAQ/USP, SP;](assets-Grad-postGrad/MsC_ESLAQ_USP/)
+- [PhD at ESALQ/USP, SP;](assets-Grad-postGrad/PhD_ESALQ_USP/)
+
+### [**BIOLOGY AND BIOTECHNOLOGY GRAD/POST GRAD:**](#andré-luiz-barbosas-profile)
 
 * [Biology at IBILCE/UNESP, SP;](assets-Grad-postGrad/gradIBILCE_UNESP/diplomaBiologiaGradUNESP-Frente.png)
-* MsC at ESLAQ/USP, SP;
-* PhD at ESALQ/USP, SP;
+
 
 [**COMPUTER AND STACKS FORMATION:**](#andré-luiz-barbosas-profile)
                     
+- Degree: IBM - MasterTech - Match! , started July, 2023.
+
 - Data Science:
   - [Alura | Grupo Boticário | Desenvolve 2023 (Jan, 13 at August, 24, 2023);](https://github.com/Andrehlb/desenvolve2023.github.io.git)
   - [EMBRAER XPEducation (Started on September 29, 2022, and finished on January 15, 2023).](https://github.com/Andrehlb/DataScience_Embraer.git)
 
-- Front-End
-  - Degree: IBM - MasterTech - Match! , started July, 2023.
-                    
+
 - Full-Stack (Apr/2022)
     * Let´s Code: Back-End: Python and Java;
     * CapGemini: Back-End Java;
