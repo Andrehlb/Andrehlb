@@ -21,15 +21,17 @@
   <h2 align = "center"> Please tap on the Badges to navigate to the respective code project </h2>
 
   <p style="display: inline_block"><br>
-  <a href = "#java-projects">
-  <img align="center" alt="Andrehlb-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-   </a>
+  
    <a href = "#dataScience-projects">
   <img align="center" alt="Andrehlb-Data Science | Dados" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <a/>
+   </a>
   <a href = "#py-projects">
   <img align="center" alt="Andrehlb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+    <a href = "#java-projects">
+  <img align="center" alt="Andrehlb-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+   </a>
     <a href="#js-projects">
   <img align="center" alt="Andrejlb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
