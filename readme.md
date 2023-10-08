@@ -18,10 +18,8 @@
 </div>
 <br>
 <div align = "center"
-  <h2 align = "center"> Please tap on the Badges to navigate to the respective code project </h2>
-
+<h2 align = "center"> Please tap on the Badges to navigate to the respective code project </h2>
   <p style="display: inline_block"><br>
-  
   <a href = "#dataScience-projects">
   <img align="center" alt="Andrehlb-Data Science | Dados" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    </a>
