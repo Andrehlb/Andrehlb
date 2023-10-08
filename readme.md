@@ -1,6 +1,15 @@
-<h1 align = "center">Hello Coder friend, <br>my name is André Luiz Barbosa as Andrehlb GitHub user. </h1>
+<h1 align = "center">👋 Hello Coder friend, <br>my name is André Luiz Barbosa as Andrehlb GitHub user. </h1>
 
-<h2 align = "center"> I´m a Biotechnologist, Data Scientist and Developer! </h2>
+<h2 align = "center"> 🔬 Biotechnologist | 🌐 Full Stack Developer | 📊 Data Scientist </h2>
+
+<h3 align="center"> 🛠 Skills & Expertise 🛠 <br>
+<p align="center">
+  🌱 <b>Frameworks:</b> Angular, ReactJS <br>
+  📊 <b>Data Science:</b> Pandas, NumPy, Matplotlib, scikit-learn <br>
+  🧬 <b>Bioinformatics:</b> Sequence Analysis, BLAST Techniques, NGS Assembly <br>
+  🏄‍♂️ <b>Agile Methodologies:</b> Scrum, Kanban <br>
+  🌍 <b>Languages:</b> Fluent in English, Advanced in Spanish, Native in Portuguese <br>
+</p>
 
 <div align = "center"
   <a href="https://github.com/Andrehlb">
