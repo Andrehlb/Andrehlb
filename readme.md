@@ -22,13 +22,15 @@
 
   <p style="display: inline_block"><br>
   
-   <a href = "#dataScience-projects">
+  <a href = "#dataScience-projects">
   <img align="center" alt="Andrehlb-Data Science | Dados" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    </a>
   <a href = "#py-projects">
   <img align="center" alt="Andrehlb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+    <a href = "#R-projects">
+    <img align="center" alt="Andrehlb-R" height="30" width="40" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+    </a>
     <a href = "#java-projects">
   <img align="center" alt="Andrehlb-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
    </a>
