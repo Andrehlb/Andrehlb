@@ -11,13 +11,13 @@
   🌍 <b>Languages:</b> Fluent in English, Advanced in Spanish, Native in Portuguese <br>
 </p>
 
-<div align = "center"
+<div align = "center">
   <a href="https://github.com/Andrehlb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrehlb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrehlb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
-<div align = "center"
+<div align = "center">
 <h2 align = "center"> Please tap on the Badges to navigate to the respective code project </h2>
   <p style="display: inline_block"><br>
   <a href = "#dataScience-projects">
