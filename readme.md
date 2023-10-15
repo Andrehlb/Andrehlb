@@ -70,49 +70,13 @@
   <a href="https://discordapp.com/users/Andrehlb#7664" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:andrehlbarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
-
-## <div align = "center">Andrehlb's Profile </div>
-
-### 🎓 Education & Certifications 
-
-#### Postgraduate Education
--  📚 [Data Science Postgraduate Program at Univitória, ES; (ongoing, 2023)](assets-Grad-postGrad/PostGrad_Univitoria_ES/)
--  🎓 [MsC at ESLAQ/USP, SP;](assets-Grad-postGrad/MsC_ESLAQ_USP/)
--  🎓 [PhD at ESALQ/USP, SP;](assets-Grad-postGrad/PhD_ESALQ_USP/)
-
-### Undergraduate Education
-*  🌱 [Biology at IBILCE/UNESP, SP;](assets-Grad-postGrad/gradIBILCE_UNESP/diplomaBiologiaGradUNESP-Frente.png)
-
-
-[**COMPUTER AND STACKS FORMATION:**](#andré-luiz-barbosas-profile)
-                    
-- Degree: IBM - MasterTech - Match! , started July, 2023.
-
-- Data Science:
-  - [Alura | Grupo Boticário | Desenvolve 2023 (Jan, 13 at August, 24, 2023);](https://github.com/Andrehlb/desenvolve2023.github.io.git)
-  - [EMBRAER XPEducation (Started on September 29, 2022, and finished on January 15, 2023).](https://github.com/Andrehlb/DataScience_Embraer.git)
-
-
-- Full-Stack (Apr/2022)
-    * Let´s Code: Back-End: Python and Java;
-    * CapGemini: Back-End Java;
-    * Dio.me: Front-End JS | HTML | CSS;
-    * IBM by Coursera: Web Development;
-    * Start.Se: Web Development;
-    * RocketSeat: Front-End | JS, CSS;
-    * Alura: Flutter Mobile dev;
-   
-- R language for bioinformatic data analysis at ESALQ/USP, Piracicaba, SP (2011-2014);
-</h3>
+    
+  ## <div align = "center">My Daily Dev Card</div>
 
 <p align = "center">
   <a href="https://app.daily.dev/Andrehlb"><img src="https://api.daily.dev/devcards/641655384bb14ec4951127a632b5793c.png?r=9wx" width="200" alt="Andre Luiz Barbosa's Dev Card"/></a>
 </p>
 
-##<a id="java-projects"></a>My Java Projects
-- [Project 1](https://github.com/Andrehlb/project-1)
-- [Project 2](https://github.com/Andrehlb/project-2)
-- [Project 3](https://github.com/Andrehlb/project-3)
 
 ##<a id="dataScience-projects"></a> My Data Science Projects
 - [Solving optimization problems using Binary Integer Programming (BIP)](https://github.com/Andrehlb/Bootcamp-OTM-ENACOM.git)
@@ -134,6 +98,12 @@
 - [Explorando a Manipulação de Arrays e Strings, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/ExecicioArrayJS/arrayPosicao.js)
 - [Somatório de Números Inteiros Divisíveis por 3 ou 5, em JavaScript](https://github.com/Andrehlb/ScriboSoftwareDev/blob/ea55243e1a2395cb4e1fd60636f112eca0fd9794/sumDivisibleByThreeOrFive.js)
 
+##<a id="java-projects"></a>My Java Projects
+- [Project 1](https://github.com/Andrehlb/project-1)
+- [Project 2](https://github.com/Andrehlb/project-2)
+- [Project 3](https://github.com/Andrehlb/project-3)
+
+
 ##<a id="dart-projects"></a> My Dart-Flutter Projects
 - [Project 1](https://github.com/Andrehlb/ScriboSoftwareDev/tree/7cbe68f979d4ba5d1bf1785c3d35e72f75ec104e/DartFiles)
 
@@ -145,3 +115,33 @@
 - [Estrutura HTML Básica com Scripts Assíncronos, Compatibilidade CrossBrowser e Metadado](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principaisTagHTMLp2.html)
 - [A Web page that uses the PyScript library to execute some Python code.](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/PyScript/pyscript_1st.html)
 
+## <div align = "center">Andrehlb's Profile </div>
+
+### 🎓 Education & Certifications 
+
+#### Postgraduate Education
+-  📚 [Data Science Postgraduate Program at Univitória, ES; (ongoing, 2023)](assets-Grad-postGrad/PostGrad_Univitoria_ES/)
+-  🎓 [MsC at ESLAQ/USP, SP;](assets-Grad-postGrad/MsC_ESLAQ_USP/)
+-  🎓 [PhD at ESALQ/USP, SP;](assets-Grad-postGrad/PhD_ESALQ_USP/)
+
+### UNDERGRADUATE EDUCATION
+*  🌱 [Biology at IBILCE/UNESP, SP;](assets-Grad-postGrad/gradIBILCE_UNESP/diplomaBiologiaGradUNESP-Frente.png)
+
+
+### COMPUTER AND STACKS FORMATION
+- Degree: IBM - MasterTech - Match! , started July, 2023.
+
+- Data Science and Machine Learning:
+  - [Alura | Grupo Boticário | Desenvolve 2023 (Jan, 13 at August, 24, 2023);](https://github.com/Andrehlb/desenvolve2023.github.io.git)
+  - [EMBRAER XPEducation (Started on September 29, 2022, and finished on January 15, 2023).](https://github.com/Andrehlb/DataScience_Embraer.git)
+
+- Full-Stack Development:
+  * Let´s Code: Back-End: Python and Java;
+  * CapGemini: Java, back-end;
+  * Dio.me: Front-End JS | HTML | CSS;
+  * IBM by Coursera: Web Development;
+  * Start.Se: Web Development;
+  * RocketSeat: Front-End | JS, CSS;
+  * Alura: Flutter Mobile dev;
+   
+- R language for bioinformatic data analysis at ESALQ/USP, Piracicaba, SP (2011-2014);
