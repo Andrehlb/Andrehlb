@@ -60,31 +60,28 @@
 </div>
 
 
-  ##
-  <h3 align = "center">Bellow my Social networks</h3> 
+  ## <div align = "center">Bellow my Social networks 🌐</div>
+
 <div align = "center">
-<a href="https://www.linkedin.com/in/andrehlb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andrehlb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCK0KkXbsrsWKJjx0F4dp-Og" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="insta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="twich"_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/Andrehlb#7664" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discordapp.com/users/Andrehlb#7664" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:andrehlbarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-## <div align = "center"> André Luiz Barbosa | Andrehlb´s Profile </div>
+## <div align = "center">Andrehlb's Profile </div>
 
-### <div align = "center"> [**GRAD AND STACKS**](#andré-luiz-barbosa´s-profile) </div>
+### 🎓 Education & Certifications 
 
-#### <div align = "center"> Index of <br> Postgraduate and Undergraduate Education</div>
+#### Postgraduate Education
+-  📚 [Data Science Postgraduate Program at Univitória, ES; (ongoing, 2023)](assets-Grad-postGrad/PostGrad_Univitoria_ES/)
+-  🎓 [MsC at ESLAQ/USP, SP;](assets-Grad-postGrad/MsC_ESLAQ_USP/)
+-  🎓 [PhD at ESALQ/USP, SP;](assets-Grad-postGrad/PhD_ESALQ_USP/)
 
-##### **Postgrad Education:**
-- [Data Science Postgraduate Program at Univitória, ES; (ongoing, 2023)](assets-Grad-postGrad/PostGrad_Univitoria_ES/)
-- [MsC at ESLAQ/USP, SP;](assets-Grad-postGrad/MsC_ESLAQ_USP/)
-- [PhD at ESALQ/USP, SP;](assets-Grad-postGrad/PhD_ESALQ_USP/)
-
-### [**BIOLOGY AND BIOTECHNOLOGY GRAD/POST GRAD:**](#andré-luiz-barbosas-profile)
-
-* [Biology at IBILCE/UNESP, SP;](assets-Grad-postGrad/gradIBILCE_UNESP/diplomaBiologiaGradUNESP-Frente.png)
+### Undergraduate Education
+*  🌱 [Biology at IBILCE/UNESP, SP;](assets-Grad-postGrad/gradIBILCE_UNESP/diplomaBiologiaGradUNESP-Frente.png)
 
 
 [**COMPUTER AND STACKS FORMATION:**](#andré-luiz-barbosas-profile)
