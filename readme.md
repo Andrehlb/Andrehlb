@@ -93,18 +93,11 @@
     * Start.Se: Web Development;
     * RocketSeat: Front-End | JS, CSS;
     * Alura: Flutter Mobile dev;
-   
-- R language for bioinformatic data analysis at ESALQ/USP, Piracicaba, SP (2011-2014);
 </h3>
 
 <p align = "center">
   <a href="https://app.daily.dev/Andrehlb"><img src="https://api.daily.dev/devcards/641655384bb14ec4951127a632b5793c.png?r=9wx" width="200" alt="Andre Luiz Barbosa's Dev Card"/></a>
 </p>
-
-##<a id="java-projects"></a>My Java Projects
-- [Project 1](https://github.com/Andrehlb/project-1)
-- [Project 2](https://github.com/Andrehlb/project-2)
-- [Project 3](https://github.com/Andrehlb/project-3)
 
 ##<a id="dataScience-projects"></a>My Data Science Projects (Python, JupiterNoteBook, MySQL, SQL)
 - [Solving optimization problems using Binary Integer Programming (BIP)](https://github.com/Andrehlb/Bootcamp-OTM-ENACOM.git)
@@ -113,9 +106,13 @@
 - [MySQLWorkBrench_LogicalModel](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/script_Embraer_Aula2-2-1-ModelagemER.sql)
 - [Criação das Listas e Acesso dos Elementos; Resolvendo problema de encontrar a maior idade, usando listas](https://github.com/Andrehlb/DataScience_Embraer/blob/1af3a1673dc7ed616eb0f527649c07623f743032/Python_DS/Embraer_Python/capitulo05_aula02.ipynb)
 
-
 ##<a id="py-projects"></a>My Python Projects
 - [Demonstração de Tipos de Dados, em Python](https://github.com/Andrehlb/Workspace/blob/fbb710b9b64560c60acaf180202de51b1ce94291/GitHub/Python/C%C3%B3digo%20Python%20Jupyter/Untitled.ipynb)
+
+##<a id="R-universe-projects"></a>My R-Universe Projects
+<h4> Bioinformatic </h4>
+
+- [DNA Analysis](https://github.com/Andrehlb/R-Universe/blob/9fa44fad4b6da970ce626119017bacd519c23986/COMTAS_analysis.R)
 
 ##<a id="#js-projects"></a>My JavaScript Projects
 - [Aplicação de Impostos a um Produto para Diferentes Estados, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/alicotaImpostoEstados.js)
@@ -125,6 +122,11 @@
 
 ##<a id="dart-projects"></a>My Dart-Flutter Projects
 - [Project 1](https://github.com/Andrehlb/ScriboSoftwareDev/tree/7cbe68f979d4ba5d1bf1785c3d35e72f75ec104e/DartFiles)
+
+##<a id="java-projects"></a>My Java Projects
+- [Project 1](https://github.com/Andrehlb/project-1)
+- [Project 2](https://github.com/Andrehlb/project-2)
+- [Project 3](https://github.com/Andrehlb/project-3)
 
 ##<a id="html-projects"></a>My HTML Projects
 - [Andrehlb´s Profile code](https://github.com/Andrehlb/Andrehlb.github.io.git)
