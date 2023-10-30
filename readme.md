@@ -89,7 +89,8 @@
 
 ## 📊🐍 [My Python Projects](#py-projects)
 - [Demonstração de Tipos de Dados, em Python](https://github.com/Andrehlb/Workspace/blob/fbb710b9b64560c60acaf180202de51b1ce94291/GitHub/Python/C%C3%B3digo%20Python%20Jupyter/Untitled.ipynb)
-- [Aplicativo de Gerenciamento de Tarefas com Verificação de Prioridade]([https://](https://github.com/Andrehlb/TaskManager-Python.git))
+- [Aplicativo de Gerenciamento de Tarefas com Verificação de Prioridade]
+([https://](https://github.com/Andrehlb/TaskManager-Python.git))
 
 ## 📊🧬 [My R Projects](#R-projects)
 - [Data Science and Bioinformatic with R](https://github.com/Andrehlb/R-Universe.git)
