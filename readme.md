@@ -93,9 +93,11 @@
 
 ## 📊🧬 [My R Projects](#R-projects)
 - [Data Science and Bioinformatic with R](https://github.com/Andrehlb/R-Universe.git)
+
+## 🦋 [My TypeScript Projects](#typescript-projects)
+- [Aplicativo de gerenciamento de tarefas desenvolvido com React no frontend e Fastify no backend.](https://github.com/Andrehlb/TaskManager-Fastfy-React.git)
  
 ##  💻 [My JavaScript Projects](#js-projects)
-- [Aplicativo de gerenciamento de tarefas desenvolvido com React no frontend e Fastify no backend.](https://github.com/Andrehlb/TaskManager-Fastfy-React.git)
 - [Aplicação de Impostos a um Produto para Diferentes Estados, em JavaScript.](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/alicotaImpostoEstados.js)
 - [Calculadora de Impostos de Vendas de Produtos por Estado, em JavaScript.](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/execEstadosJS/impostoAlicotaEstado.js)
 - [Explorando a Manipulação de Arrays e Strings, em JavaScript.](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/ExecicioArrayJS/arrayPosicao.js)
