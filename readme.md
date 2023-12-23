@@ -125,7 +125,7 @@
 ### 🎓 Education & Certifications 
 
 #### Postgraduate Education
--  📚 [Data Science Postgraduate Program at Univitória, ES; (ongoing, 2023)](assets-Grad-postGrad/PostGrad_Univitoria_ES/)
+-  📚 [Data Science graduate Program at Faculdade Iguaçu](assets-Grad-postGrad/PostGrad_Univitoria_ES/)
 -  🎓 [MsC at ESLAQ/USP, SP;](assets-Grad-postGrad/MsC_ESLAQ_USP/)
 -  🎓 [PhD at ESALQ/USP, SP;](assets-Grad-postGrad/PhD_ESALQ_USP/)
 
