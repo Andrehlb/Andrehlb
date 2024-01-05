@@ -89,7 +89,7 @@
 
 ## 📊🐍 [My Python Projects](#py-projects)
 - [Web applicartion | IoT | Data type](https://github.com/Andrehlb/Workspace/blob/fbb710b9b64560c60acaf180202de51b1ce94291/GitHub/Python/C%C3%B3digo%20Python%20Jupyter/Untitled.ipynb)
-- [Software Development | Task Manager App | Web application](https://github.com/Andrehlb/TaskManager-Python.git)
+- [Software Development | Task Manager App | Web application | Flask framework](https://github.com/Andrehlb/TaskManager-Python.git)
 
 ## 📊🧬 [My R Projects](#R-projects)
 - [Data Science and Bioinformatic with R](https://github.com/Andrehlb/R-Universe.git)
