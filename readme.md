@@ -146,7 +146,10 @@
 - Full-Stack Development:
   * Let´s Code: Back-End: Python and Java;
   * CapGemini: Java, back-end;
-  * Dio.me: Front-End JS | HTML | CSS;
+  
+  * ![Dio. Projects](https://img.shields.io/badge/Projects-<blue>)
+<a href="https://web.dio.me/users/andrehlbarbosa?tab=projects&page=1"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="57" target="_blank"></a>
+ 
   * IBM by Coursera: Web Development;
   * Start.Se: Web Development;
   * RocketSeat: Front-End | JS, CSS;
