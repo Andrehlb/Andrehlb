@@ -82,15 +82,21 @@
 ### The Code Projects
 
 ## 📊 [My Data Science Projects](#DS-projects)
+
 - [Solving optimization problems using Binary Integer Programming (BIP)](https://github.com/Andrehlb/Bootcamp-OTM-ENACOM.git)
+
 - [Modelagem Lógica](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/Embraer_MtSQL-WorkBrench_LogicalModel_Aula2-2-1-ModelagemER_Mod01FundBD.mwb)
+
 - [Modelagm Lógica e Python Code](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/MySQL-ERW-26092022.mwb)
+
 - [MySQLWorkBrench_LogicalModel](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/script_Embraer_Aula2-2-1-ModelagemER.sql)
+
 - [Criação das Listas e Acesso dos Elementos; Resolvendo problema de encontrar a maior idade, usando listas](https://github.com/Andrehlb/DataScience_Embraer/blob/1af3a1673dc7ed616eb0f527649c07623f743032/Python_DS/Embraer_Python/capitulo05_aula02.ipynb)
 
 
 ## 📊🐍 [My Python Projects](#py-projects)
 - [Web applicartion | IoT | Data type](https://github.com/Andrehlb/Workspace/blob/fbb710b9b64560c60acaf180202de51b1ce94291/GitHub/Python/C%C3%B3digo%20Python%20Jupyter/Untitled.ipynb)
+
 - [Software Development | Task Manager App | Web application | Flask framework](https://github.com/Andrehlb/TaskManager-Python.git)
 
 ## 📊🧬 [My R Projects](#R-projects)
@@ -101,10 +107,12 @@
  
 ##  💻 [My JavaScript Projects](#js-projects)
 - [Aplicação de Impostos a um Produto para Diferentes Estados, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/alicotaImpostoEstados.js)
+
 - [Calculadora de Impostos de Vendas de Produtos por Estado, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/execEstadosJS/impostoAlicotaEstado.js)
+
 - [Explorando a Manipulação de Arrays e Strings, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/ExecicioArrayJS/arrayPosicao.js)
+
 - [Somatório de Números Inteiros Divisíveis por 3 ou 5, em JavaScript](https://github.com/Andrehlb/ScriboSoftwareDev/blob/ea55243e1a2395cb4e1fd60636f112eca0fd9794/sumDivisibleByThreeOrFive.js)
-- []
 
 ## ☕ [My Java Projects](#java-projects)
 - [Project 1](https://github.com/Andrehlb/project-1)
