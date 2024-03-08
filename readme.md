@@ -70,6 +70,7 @@
  	<a href="twich"_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/Andrehlb#7664" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:andrehlbarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://www.dio.me/users/andrehlbarbosa" target="_blank"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="57" target="_blank"></a>
 </div>
     
   ## <div align = "center">My Daily Dev Card</div>
@@ -99,10 +100,11 @@
 - [Aplicativo de gerenciamento de tarefas desenvolvido com React no frontend e Fastify no backend.](https://github.com/Andrehlb/TaskManager-Fastfy-React.git)
  
 ##  💻 [My JavaScript Projects](#js-projects)
-- [Aplicação de Impostos a um Produto para Diferentes Estados, em JavaScript.](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/alicotaImpostoEstados.js)
-- [Calculadora de Impostos de Vendas de Produtos por Estado, em JavaScript.](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/execEstadosJS/impostoAlicotaEstado.js)
-- [Explorando a Manipulação de Arrays e Strings, em JavaScript.](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/ExecicioArrayJS/arrayPosicao.js)
-- [Somatório de Números Inteiros Divisíveis por 3 ou 5, em JavaScript.](https://github.com/Andrehlb/ScriboSoftwareDev/blob/ea55243e1a2395cb4e1fd60636f112eca0fd9794/sumDivisibleByThreeOrFive.js)
+- [Aplicação de Impostos a um Produto para Diferentes Estados, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/alicotaImpostoEstados.js)
+- [Calculadora de Impostos de Vendas de Produtos por Estado, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/execEstadosJS/impostoAlicotaEstado.js)
+- [Explorando a Manipulação de Arrays e Strings, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/ExecicioArrayJS/arrayPosicao.js)
+- [Somatório de Números Inteiros Divisíveis por 3 ou 5, em JavaScript](https://github.com/Andrehlb/ScriboSoftwareDev/blob/ea55243e1a2395cb4e1fd60636f112eca0fd9794/sumDivisibleByThreeOrFive.js)
+- []
 
 ## ☕ [My Java Projects](#java-projects)
 - [Project 1](https://github.com/Andrehlb/project-1)
@@ -126,7 +128,7 @@
 ### 🎓 Education & Certifications 
 
 #### Postgraduate Education
--  📚 [Data Science graduate Program at Faculdade Iguaçu](assets-Grad-postGrad/PostGrad_Univitoria_ES/)
+-  📚 [Data Science Postgraduate Program at Univitória, ES; (ongoing, 2023)](assets-Grad-postGrad/PostGrad_Univitoria_ES/)
 -  🎓 [MsC at ESLAQ/USP, SP;](assets-Grad-postGrad/MsC_ESLAQ_USP/)
 -  🎓 [PhD at ESALQ/USP, SP;](assets-Grad-postGrad/PhD_ESALQ_USP/)
 
