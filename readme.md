@@ -141,7 +141,9 @@
 -  🎓 [PhD at ESALQ/USP, SP;](assets-Grad-postGrad/PhD_ESALQ_USP/)
 
 ### UNDERGRADUATE EDUCATION
-*  🌱 [Biology at IBILCE/UNESP, SP;](assets-Grad-postGrad/gradIBILCE_UNESP/diplomaBiologiaGradUNESP-Frente.png)
+
+* 👨‍💻 [Ciência da Computação at Estácio, ES;](assets-Grad-postGrad/gradEstacio_ES/diplomaCienciaComputacaoGradEstacioES-Frente.png)
+* 🌱 [Biology at IBILCE/UNESP, SP;](assets-Grad-postGrad/gradIBILCE_UNESP/diplomaBiologiaGradUNESP-Frente.png)
 
 
 ### COMPUTER AND STACKS FORMATION
