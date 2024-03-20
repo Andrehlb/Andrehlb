@@ -142,7 +142,7 @@
 
 ### UNDERGRADUATE EDUCATION
 
-* 👨‍💻 [Ciência da Computação at Estácio, SP;](assets-Grad-postGrad/gradEstacio_SP/diplomaCienciaComputacaoGradEstacioSP-Frente.png)
+* 👨‍💻 [Computer Science at Estácio, SP;](assets-Grad-postGrad/gradEstacio_SP/diplomaCienciaComputacaoGradEstacioSP-Frente.png)
 * 🌱 [Biology at IBILCE/UNESP, SP;](assets-Grad-postGrad/gradIBILCE_UNESP/diplomaBiologiaGradUNESP-Frente.png)
 
 
