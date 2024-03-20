@@ -115,7 +115,7 @@
 - [Somatório de Números Inteiros Divisíveis por 3 ou 5, em JavaScript](https://github.com/Andrehlb/ScriboSoftwareDev/blob/ea55243e1a2395cb4e1fd60636f112eca0fd9794/sumDivisibleByThreeOrFive.js)
 
 ## ☕ [My Java Projects](#java-projects)
-- [Project 1](https://github.com/Andrehlb/project-1)
+- [Cálculo Imposto sobre Salário](https://github.com/Andrehlb/Java/blob/33a7609309c67b53becfec7573362678e3ea524e/calculandoImpostoSalario.java)
 - [Project 2](https://github.com/Andrehlb/project-2)
 - [Project 3](https://github.com/Andrehlb/project-3)
 
