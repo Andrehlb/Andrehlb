@@ -8,7 +8,7 @@
   📊 <b>Data Science:</b> Pandas, NumPy, Matplotlib, scikit-learn <br>
   🧬 <b>Bioinformatics:</b> Sequence Analysis, BLAST Techniques, NGS Assembly <br>
   🏄‍♂️ <b>Agile Methodologies:</b> Scrum, Kanban <br>
-  🌍 <b>Languages:</b> Fluent in English, Advanced in Spanish, Native in Portuguese <br>
+  🌍 <b>Languages:</b> Fluent in English, Advanced in Spanish, Intermediate in French and Italian, Technical in German, Starting in Mandarin, Native in Portuguese <br>
 </p>
 
 <div align = "center">
