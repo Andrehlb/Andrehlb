@@ -4,7 +4,7 @@
  
 <h3 align="center"> 🛠 Skills & Expertise 🛠 <br>
 <p align="center">
-  🌱 <b>Frameworks e Bibliotecas:</b> Angular, ReactJS, Next.js <br>
+  🌱 <b>Frameworks and Libraries:</b> Angular, ReactJS, Next.js <br>
   📊 <b>Data & AI & ML:</b> Pandas, NumPy, Matplotlib, scikit-learn <br>
   ☁️ <b>Cloud is so awesome: AWS, Google, Azure, Oracle. </b> I absolutely love exploring the APIs and the endless possibilities they offer for building, automating, and scaling solutions. 🚀✨ <br>
   🏄‍♂️ <b>Agile Methodologies:</b> Scrum, Kanban <br>
