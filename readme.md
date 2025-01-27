@@ -170,4 +170,4 @@
 
 ### Certificates/ Credentials
 
-- [Lógica de programação com Javascript (Node.JS) 6 HORAS Janeiro de 2025] (https://github.com/Andrehlb/Andrehlb/blob/main/certificados/Node_JSLogica-programacao-Javascript-Jan2025.png)
+- [Lógica de programação com Javascript (Node.JS) 6 HORAS Janeiro de 2025](https://github.com/Andrehlb/Andrehlb/blob/main/certificados/Node_JSLogica-programacao-Javascript-Jan2025.png)
