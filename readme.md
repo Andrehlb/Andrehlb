@@ -167,3 +167,7 @@
   * Alura: Flutter Mobile dev;
    
 - R language for bioinformatic data analysis at ESALQ/USP, Piracicaba, SP (2011-2014);
+
+### Certificates/ Credentials
+
+- [Lógica de programação com Javascript (Node.JS) 6 HORAS Janeiro de 2025] (https://github.com/Andrehlb/Andrehlb/blob/main/certificados/Node_JSLogica-programacao-Javascript-Jan2025.png)
