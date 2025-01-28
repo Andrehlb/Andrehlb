@@ -168,6 +168,10 @@
    
 - R language for bioinformatic data analysis at ESALQ/USP, Piracicaba, SP (2011-2014);
 
-### Certificates/ Credentials
+## Certificates/ Credentials
 
-- [Lógica de programação com Javascript (Node.JS) 6 HORAS Janeiro de 2025](https://github.com/Andrehlb/Andrehlb/blob/main/certificados/Node_JSLogica-programacao-Javascript-Jan2025.png)
+### Ada Tech | Santander Coders 2025
+
+- [Lógica de programação com Javascript (Node.JS), atualização, Jan 2025](https://github.com/Andrehlb/Andrehlb/blob/main/certificados/Node_JSLogica-programacao-Javascript-Jan2025.png)
+- [Git e Versionamento, atualização, Dez 2024](https://github.com/Andrehlb/Andrehlb/blob/main/certificados/gitVersionamento.png)
+- [Introdução ao Node.JS com Express, atualização, Jan 2025](https://github.com/Andrehlb/Andrehlb/blob/main/certificados/introducaoNodeJS-Express.png)
