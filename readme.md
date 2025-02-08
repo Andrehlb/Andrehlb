@@ -83,9 +83,8 @@
 
 ### 🔥 Projetos Mais Relevantes
 
-- **Simple Bank System** - Sistema bancário simples com suporte a operações de depósito, saque e transferências via Pix e TED entre contas. *(Java, Spring Boot, PostgreSQL,Security)* [🔗 Repository](https://github.com/Andrehlb/SimpleBankingSystem-DB-Crypto-token.git)
-- **Java RESTful api - League of Legends** - API desenvolvida durante Santander Dev Week 2024. *(Java 21, Springboot 3, H2 Database)* [🔗 ]
-(https://github.com/Andrehlb/Java-RestFull-API-SpringBoot
+- **Simple Bank System** - Sistema bancário simples com suporte a operações de depósito, saque e transferências via Pix e TED entre contas. *(Java, Spring Boot, PostgreSQL, Security)* [🔗 Repository](https://github.com/Andrehlb/SimpleBankingSystem-DB-Crypto-token.git)
+- **Java RESTful api - League of Legends** - API desenvolvida durante Santander Dev Week 2024. *(Java 21, Springboot 3, H2 Database)* [🔗 Repository](https://github.com/Andrehlb/Java-RestFul-API-SpringBoot-LeagueOfLegends-Santander)
  📊 [My Data Science Projects](#DS-projects)
 
 - [Solving optimization problems using Binary Integer Programming (BIP)](https://github.com/Andrehlb/Bootcamp-OTM-ENACOM.git)
