@@ -90,7 +90,7 @@
 
 ### 🏦 Backend Development
 
-- **Task Manager API (Flask)** - Backend para gerenciamento de tarefas utilizando Flask. *(Python, Flask, SQLite)* [🔗 Repositório](https://github.com/Andrehlb/Task-Manager-App-Flask)
+- **Task Manager API (Flask)** - Backend para gerenciamento de tarefas utilizando Flask. *(Python, Flask, SQLite)* [🔗 Repositório](https://github.com/Andrehlb/TaskManager-Python.git)
 - **Task Manager API (Fastify)** - Backend de gerenciamento de tarefas otimizado para alta performance. *(Node.js, Fastify, PostgreSQL)* [🔗 Repositório](https://github.com/Andrehlb/TaskManager-Fastify-React.git)
 - **Auto Event Google Calendar** - Automação para criação de eventos no Google Calendar a partir de informações extraídas de páginas da web. *(Python, Google Calendar API)* [🔗 Repositório](https://github.com/Andrehlb/auto-event-google-calendar)
 - **Auditoria EC2 AWS CloudTrail Cafeteria** - Projeto para auditoria de ações executadas na conta AWS usando o AWS CloudTrail. *(AWS, CloudTrail)* [🔗 Repositório](https://github.com/Andrehlb/auditoria-EC2-AWS_CloudTrail_Cafeteria)
