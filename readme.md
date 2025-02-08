@@ -109,10 +109,10 @@
 
 ### 🌐 Web Development & Frontend
 
-- **Loja Esportiva AWS** - Desenvolvimento de um e-commerce de artigos esportivos utilizando AWS. *(JavaScript, AWS)* [🔗 Repositório](https://github.com/Andrehlb/lojaEsportiva-AWS)
-- **Web Page using PyScript** - Criação de páginas interativas utilizando PyScript. *(Python, HTML, CSS, PyScript)* [🔗 Repositório](https://github.com/Andrehlb/Web-Page-using-PyScript)
-- **HTML & JavaScript Tax Calculator** - Aplicação de cálculo de impostos via JavaScript. *(HTML, CSS, JavaScript)* [🔗 Repositório](https://github.com/Andrehlb/Calculadora-Impostos-Vendas-JavaScript)
 - **Consumindo API** - Projeto demonstrando consumo de APIs com JavaScript. *(CSS, JavaScript)* [🔗 Repositório](https://github.com/Andrehlb/consumindoAPI)
+- **Loja Esportiva AWS** - Desenvolvimento de um e-commerce de artigos esportivos utilizando AWS. *(JavaScript, AWS)* [🔗 Repositório](https://github.com/Andrehlb/lojaEsportiva-AWS)
+- **HTML & JavaScript Tax Calculator** - Aplicação de cálculo de impostos via JavaScript. *(HTML, CSS, JavaScript)* [🔗 Repositório](https://github.com/Andrehlb/Calculadora-Impostos-Vendas-JavaScript)
+- **Web Page using PyScript** - Criação de páginas interativas utilizando PyScript. *(Python, HTML, CSS, PyScript)* [🔗 Repositório](https://github.com/Andrehlb/Web-Page-using-PyScript)
 
 ---
 
