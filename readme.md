@@ -79,7 +79,7 @@
   <a href="https://app.daily.dev/Andrehlb"><img src="https://api.daily.dev/devcards/641655384bb14ec4951127a632b5793c.png?r=9wx" width="200" alt="Andre Luiz Barbosa's Dev Card"/></a>
 </p>
 
-## 🚀 The Code Projects
+## 👨‍💻🚀 The Code Projects
 
 ### 🚀 Top Projects
 
