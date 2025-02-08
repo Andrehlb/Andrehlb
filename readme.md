@@ -116,7 +116,7 @@
 
 ---
 
-📌 Nota: A lista acima foca nos projetos mais relevantes para colaboradores, recrutadores e empregadores. Outros projetos podem ser encontrados no meu GitHub. 🔗 Veja mais.
+📌 Nota: A lista acima foca nos projetos mais relevantes para colaboradores, recrutadores e empregadores.<br> Outros projetos podem ser encontrados no meu GitHub.<br> Veja mais em [🔗 Repositórios][repositoriesLink].
 
 ---
 
@@ -126,22 +126,23 @@
 ### 🎓 Education & Certifications 
 
 #### Postgraduate Education
--  📚 [Data Science Postgraduate Program at Univitória, ES; (ongoing, 2023)](assets-Grad-postGrad/PostGrad_Univitoria_ES/)
--  🎓 [MsC at ESLAQ/USP, SP;](assets-Grad-postGrad/MsC_ESLAQ_USP/)
--  🎓 [PhD at ESALQ/USP, SP;](assets-Grad-postGrad/PhD_ESALQ_USP/)
+-  📚 [Data Science Postgraduate Program at Univitória, ES; (2023-2025)](assets-Grad-postGrad/PostGrad_Univitoria_ES/)
+-  🎓 [MsC at ESLAQ/USP, SP; (2010)](assets-Grad-postGrad/MsC_ESLAQ_USP/)
+-  🎓 [PhD at ESALQ/USP, SP;(2016)](assets-Grad-postGrad/PhD_ESALQ_USP/)
 
 ### UNDERGRADUATE EDUCATION
 
-* 👨‍💻 [Computer Science at Estácio, SP;](assets-Grad-postGrad/gradEstacio_SP/diplomaCienciaComputacaoGradEstacioSP-Frente.png)
-* 🌱 [Biology at IBILCE/UNESP, SP;](assets-Grad-postGrad/gradIBILCE_UNESP/diplomaBiologiaGradUNESP-Frente.png)
+* 👨‍💻 [Computer Science at Anhnanguera, SP, (2025-208);
+* 👨‍💻 [Computer Science at Estácio, SP, (2004-2025);](assets-Grad-postGrad/gradEstacio_SP/diplomaCienciaComputacaoGradEstacioSP-Frente.png)
+* 🌱 [Biology at IBILCE/UNESP, SP;(2000)](assets-Grad-postGrad/gradIBILCE_UNESP/diplomaBiologiaGradUNESP-Frente.png)
 
 
 ### COMPUTER AND STACKS FORMATION
 - Degree: IBM - MasterTech - Match! , started July, 2023.
 
 - Data Science and Machine Learning:
-  - [Alura | Grupo Boticário | Desenvolve 2023 (Jan, 13 at August, 24, 2023);](https://github.com/Andrehlb/desenvolve2023.github.io.git)
-  - [EMBRAER XPEducation (Started on September 29, 2022, and finished on January 15, 2023).](https://github.com/Andrehlb/DataScience_Embraer.git)
+  - [Alura | Grupo Boticário | Desenvolve 2023 (2023);](https://github.com/Andrehlb/desenvolve2023.github.io.git)
+  - [EMBRAER XPEducation (2023).](https://github.com/Andrehlb/DataScience_Embraer.git)
 
 - Full-Stack Development:
   * Let´s Code: Back-End: Python and Java;
@@ -165,3 +166,6 @@
 - [Lógica de programação com Javascript (Node.JS), atualização, Jan 2025](https://github.com/Andrehlb/Andrehlb/blob/main/certificados/Node_JSLogica-programacao-Javascript-Jan2025.png)
 - [Git e Versionamento, atualização, Dez 2024](https://github.com/Andrehlb/Andrehlb/blob/main/certificados/gitVersionamento.png)
 - [Introdução ao Node.JS com Express, atualização, Jan 2025](https://github.com/Andrehlb/Andrehlb/blob/main/certificados/introducaoNodeJS-Express.png)
+
+
+[repositoriesLink]: https://github.com/Andrehlb?tab=repositories
