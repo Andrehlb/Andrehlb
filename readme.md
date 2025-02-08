@@ -81,7 +81,7 @@
 
 ## 👨‍💻🚀 The Code Projects
 
-### 🚀 Top Projects
+### 🔥🚀 Top Projects
 
 - **Simple Banking System - DB & Crypto Token** - Sistema bancário avançado com suporte a criptografia e gerenciamento de tokens. *(Python, PostgreSQL, Security)* [🔗 Repositório](https://github.com/Andrehlb/SimpleBankingSystem-DB-Crypto-token.git)
 - **Java RESTful API - League of Legends** - API desenvolvida durante o Santander Dev Week 2024. *(Java 21, Spring Boot 3, H2 Database)* [🔗 Repositório](https://github.com/Andrehlb/Java-RestFull-API-SpringBoot-LeagueOfLegends-Santander)
