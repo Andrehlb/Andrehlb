@@ -115,7 +115,6 @@
 - **Web Page using PyScript** - Criação de páginas interativas utilizando PyScript. *(Python, HTML, CSS, PyScript)* [🔗 Repositório](https://github.com/Andrehlb/Web-Page-using-PyScript)
 
 ---
-
 📌 Nota: A lista acima foca nos projetos mais relevantes para colaboradores, recrutadores e empregadores.<br> Outros projetos podem ser encontrados no meu GitHub.<br> Veja mais em [🔗 Repositórios][repositoriesLink].
 
 ---
