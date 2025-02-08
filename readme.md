@@ -79,61 +79,47 @@
   <a href="https://app.daily.dev/Andrehlb"><img src="https://api.daily.dev/devcards/641655384bb14ec4951127a632b5793c.png?r=9wx" width="200" alt="Andre Luiz Barbosa's Dev Card"/></a>
 </p>
 
-## The Code Projects
+## 🚀 The Code Projects
 
 ### 🔥 Projetos Mais Relevantes
 
-- **Simple Bank System** - Sistema bancário simples com suporte a operações de depósito, saque e transferências via Pix e TED entre contas. *(Java, Spring Boot, PostgreSQL, Security)* [🔗 Repository](https://github.com/Andrehlb/SimpleBankingSystem-DB-Crypto-token.git)
-- **Java RESTful API - League of Legends** - API desenvolvida durante Santander Dev Week 2024. *(Java 21, Springboot 3, H2 Database)* [🔗 Repository](https://github.com/Andrehlb/Java-RestFul-API-SpringBoot-LeagueOfLegends-Santander)
- 📊 [My Data Science Projects](#DS-projects)
+- **Simple Banking System - DB & Crypto Token** - Sistema bancário avançado com suporte a criptografia e gerenciamento de tokens. *(Python, PostgreSQL, Security)* [🔗 Repositório](https://github.com/Andrehlb/SimpleBankingSystem-DB-Crypto-token.git)
+- **Java RESTful API - League of Legends** - API desenvolvida durante o Santander Dev Week 2024. *(Java 21, Spring Boot 3, H2 Database)* [🔗 Repositório](https://github.com/Andrehlb/Java-RestFull-API-SpringBoot-LeagueOfLegends-Santander)
+- **DataScience\_Embraer** - Projetos de Data Science aplicados à indústria aeronáutica. *(Python, SQL, R, Azure, AWS S3)* [🔗 Repositório](https://github.com/Andrehlb/DataScience_Embraer)
+- **Desafios-Challenges-** - Diversos desafios de Data Science explorando diferentes técnicas e algoritmos. *(Jupyter Notebook)* [🔗 Repositório](https://github.com/Andrehlb/Desafios-Challenges-)
 
-- [Solving optimization problems using Binary Integer Programming (BIP)](https://github.com/Andrehlb/Bootcamp-OTM-ENACOM.git)
+### 🏦 Backend Development
 
-- [Modelagem Lógica](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/Embraer_MtSQL-WorkBrench_LogicalModel_Aula2-2-1-ModelagemER_Mod01FundBD.mwb)
+- **Task Manager API (Flask)** - Backend para gerenciamento de tarefas utilizando Flask. *(Python, Flask, SQLite)* [🔗 Repositório](https://github.com/Andrehlb/Task-Manager-App-Flask)
+- **Task Manager API (Fastify)** - Backend de gerenciamento de tarefas otimizado para alta performance. *(Node.js, Fastify, PostgreSQL)* [🔗 Repositório](https://github.com/Andrehlb/Task-Manager-App-React-Fastify)
+- **Auto Event Google Calendar** - Automação para criação de eventos no Google Calendar a partir de informações extraídas de páginas da web. *(Python, Google Calendar API)* [🔗 Repositório](https://github.com/Andrehlb/auto-event-google-calendar)
+- **Auditoria EC2 AWS CloudTrail Cafeteria** - Projeto para auditoria de ações executadas na conta AWS usando o AWS CloudTrail. *(AWS, CloudTrail)* [🔗 Repositório](https://github.com/Andrehlb/auditoria-EC2-AWS_CloudTrail_Cafeteria)
 
-- [Modelagm Lógica e Python Code](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/MySQL-ERW-26092022.mwb)
+### ☁️ Cloud Computing & DevOps
 
-- [MySQLWorkBrench_LogicalModel](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/Embraer_MySQL-WorkBench/script_Embraer_Aula2-2-1-ModelagemER.sql)
+- **Azure AI - Bike Rental Endpoints** - Desenvolvimento de endpoints para aluguel de bicicletas na Azure AI. *(Azure ML, Python, FastAPI)* [🔗 Repositório](https://github.com/Andrehlb/AzureAI-MLStudio-BikeRental-EndPoints)
+- **Azure ML - Face & Text Analysis** - Processamento de imagens e reconhecimento facial no Azure ML. *(Python, OpenCV, Azure Cognitive Services)* [🔗 Repositório](https://github.com/Andrehlb/AzureML-FaceTextAnalysisDataProcessing)
+- **AWS EC2 Bastion & Webserver** - Gerenciamento de instâncias AWS EC2 para criação de um bastion host e um webserver. *(AWS, EC2, CloudFormation)* [🔗 Repositório](https://github.com/Andrehlb/AWS-EC2-Bastion-Webserver-Connect-CLI-Lab)
+- **CafeteriaAppMigration AWS RDS EC2 LAMP** - Migração de um aplicativo web para usar banco de dados gerenciado pelo Amazon RDS e EC2. *(AWS, RDS, EC2, LAMP)* [🔗 Repositório](https://github.com/Andrehlb/CafeteriaAppMigration-AWS-RDS-EC2-LAMP)
 
-- [Criação das Listas e Acesso dos Elementos; Resolvendo problema de encontrar a maior idade, usando listas](https://github.com/Andrehlb/DataScience_Embraer/blob/1af3a1673dc7ed616eb0f527649c07623f743032/Python_DS/Embraer_Python/capitulo05_aula02.ipynb)
+### 🎯 Inteligência Artificial & Machine Learning
 
+- **AI - Naive Bayes Classifier** - Implementação de um classificador Naive Bayes para aprendizado de máquina. *(Python, scikit-learn)* [🔗 Repositório](https://github.com/Andrehlb/AI-NaiveBayes-Classifier)
+- **LangChain React AI ML LLM Token API Py Agent** - Implementação de um agente ReAct em LangChain para aplicações de IA. *(Python, LangChain, OpenAI API)* [🔗 Repositório](https://github.com/Andrehlb/LangChain-React-AI-ML-LLM-Token-API-Py-agent)
 
-## 📊🐍 [My Python Projects](#py-projects)
-- [Web applicartion | IoT | Data type](https://github.com/Andrehlb/Workspace/blob/fbb710b9b64560c60acaf180202de51b1ce94291/GitHub/Python/C%C3%B3digo%20Python%20Jupyter/Untitled.ipynb)
+### 🌐 Web Development & Frontend
 
-- [Software Development | Task Manager App | Web application | Flask framework](https://github.com/Andrehlb/TaskManager-Python.git)
+- **Loja Esportiva AWS** - Desenvolvimento de um e-commerce de artigos esportivos utilizando AWS. *(JavaScript, AWS)* [🔗 Repositório](https://github.com/Andrehlb/lojaEsportiva-AWS)
+- **Web Page using PyScript** - Criação de páginas interativas utilizando PyScript. *(Python, HTML, CSS, PyScript)* [🔗 Repositório](https://github.com/Andrehlb/Web-Page-using-PyScript)
+- **HTML & JavaScript Tax Calculator** - Aplicação de cálculo de impostos via JavaScript. *(HTML, CSS, JavaScript)* [🔗 Repositório](https://github.com/Andrehlb/Calculadora-Impostos-Vendas-JavaScript)
+- **Consumindo API** - Projeto demonstrando consumo de APIs com JavaScript. *(CSS, JavaScript)* [🔗 Repositório](https://github.com/Andrehlb/consumindoAPI)
 
-## 📊🧬 [My R Projects](#R-projects)
-- [Data Science and Bioinformatic with R](https://github.com/Andrehlb/R-Universe.git)
+---
 
-## 🦋 [My TypeScript Projects](#typescript-projects)
-- [Aplicativo de gerenciamento de tarefas desenvolvido com React no frontend e Fastify no backend.](https://github.com/Andrehlb/TaskManager-Fastfy-React.git)
- 
-##  💻 [My JavaScript Projects](#js-projects)
-- [Aplicação de Impostos a um Produto para Diferentes Estados, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/alicotaImpostoEstados.js)
+📌 Nota: A lista acima foca nos projetos mais relevantes para colaboradores, recrutadores e empregadores. Outros projetos podem ser encontrados no meu GitHub. 🔗 Veja mais.
 
-- [Calculadora de Impostos de Vendas de Produtos por Estado, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/execEstadosJS/impostoAlicotaEstado.js)
+---
 
-- [Explorando a Manipulação de Arrays e Strings, em JavaScript](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/ExecicioArrayJS/arrayPosicao.js)
-
-- [Somatório de Números Inteiros Divisíveis por 3 ou 5, em JavaScript](https://github.com/Andrehlb/ScriboSoftwareDev/blob/ea55243e1a2395cb4e1fd60636f112eca0fd9794/sumDivisibleByThreeOrFive.js)
-
-## ☕ [My Java Projects](#java-projects)
-- [Cálculo Imposto sobre Salário](https://github.com/Andrehlb/Java/blob/33a7609309c67b53becfec7573362678e3ea524e/calculandoImpostoSalario.java)
-- [Project 2](https://github.com/Andrehlb/project-2)
-- [Project 3](https://github.com/Andrehlb/project-3)
-
-
-## 🎯 [My Dart-Flutter Projects](#dart-projects)
-- [Project 1](https://github.com/Andrehlb/ScriboSoftwareDev/tree/7cbe68f979d4ba5d1bf1785c3d35e72f75ec104e/DartFiles)
-
-## 🌐 [My HTML Projects](#html-projects)
-- [Andrehlb´s Profile code](https://github.com/Andrehlb/Andrehlb.github.io.git)
-- [Esqueleto básico de HTML com elementos div](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/GitHub/JavaScript/BasicHTMLStructureWithDivElements.html)
-- [Estrutura Básica, Explorando Tags em HTML 1, com Comentários](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principais_tags_html_p1.html)
-- [Explorando Tags HTML 2 - Continuing with the advanced process](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principaisTagHTMLp2.html)
-- [Estrutura HTML Básica com Scripts Assíncronos, Compatibilidade CrossBrowser e Metadado](https://github.com/Andrehlb/Workspace/blob/e379b0b17f522deedd7b49838d809e393bcc8d2c/Web_LeTsCode/principaisTagHTMLp2.html)
-- [A Web page that uses the PyScript library to execute some Python code.](https://github.com/Andrehlb/DataScience_Embraer/blob/f5529dff732926762753d45283c6216ff291c757/PyScript/pyscript_1st.html)
 
 ## <div align = "center">Andrehlb's Profile </div>
 
