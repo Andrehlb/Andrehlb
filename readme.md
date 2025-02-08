@@ -79,9 +79,14 @@
   <a href="https://app.daily.dev/Andrehlb"><img src="https://api.daily.dev/devcards/641655384bb14ec4951127a632b5793c.png?r=9wx" width="200" alt="Andre Luiz Barbosa's Dev Card"/></a>
 </p>
 
-### The Code Projects
+## The Code Projects
 
-## 📊 [My Data Science Projects](#DS-projects)
+### 🔥 Projetos Mais Relevantes
+
+- **Simple Bank System** - Sistema bancário simples com suporte a operações de depósito, saque e transferências via Pix e TED entre contas. *(Java, Spring Boot, PostgreSQL,Security)* [🔗 Repository](https://github.com/Andrehlb/SimpleBankingSystem-DB-Crypto-token.git)
+- **Java RESTful api - League of Legends** - API desenvolvida durante Santander Dev Week 2024. *(Java 21, Springboot 3, H2 Database)* [🔗 ]
+(https://github.com/Andrehlb/Java-RestFull-API-SpringBoot
+ 📊 [My Data Science Projects](#DS-projects)
 
 - [Solving optimization problems using Binary Integer Programming (BIP)](https://github.com/Andrehlb/Bootcamp-OTM-ENACOM.git)
 
