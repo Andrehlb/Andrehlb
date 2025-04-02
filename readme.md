@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/Andrehlb/Andrehlb/main/Assets/BackGraund-Topo-GitHub/andrehlbProfileGitHub-Presentation-Image_with_Devs.png"
        alt="Banner de apresentação" 
        width="700">
-/p>
 
 <h2 align = "center"> 🧑🏽‍💻 Full Stack Developer | 📊 Data & AI & LLM | ☁️ Cloud </h2>
  
