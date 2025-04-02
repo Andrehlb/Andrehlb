@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Andrehlb/Andrehlb/main/Assets/BackGraund-Topo-GitHub/Andrehlb-2024-03-01-Desenvolvedor-aprendizado-de-máquina-ambiente-ensolarado.png" 
        alt="Banner de apresentação" 
-       style="width: 100%; border-radius: 10px; max-height: 300px; object-fit: cover;" />
+       style="border-radius: 10px; max-width: 100%; height: auto;" />
   <h1>👋 Hello Coder friend,</h1> 
   <h2>my name is André Luiz Barbosa as Andrehlb GitHub user.</h2>
 </div>
