@@ -3,9 +3,6 @@
        alt="Banner de apresentação" 
        width="700">
 /p>
-  <h1>👋 Hello Coder friend,</h1> 
-  <h2>my name is André Luiz Barbosa as Andrehlb GitHub user.</h2>
-</div>
 
 <h2 align = "center"> 🧑🏽‍💻 Full Stack Developer | 📊 Data & AI & LLM | ☁️ Cloud </h2>
  
