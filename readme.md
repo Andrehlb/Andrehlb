@@ -6,7 +6,7 @@
   <h2>my name is André Luiz Barbosa as Andrehlb GitHub user.</h2>
 </div>
 
-<h2 align = "center"> 🧑🏽‍💻 Full Stack Developer | 📊 Data & AI & ML | ☁️ Cloud </h2>
+<h2 align = "center"> 🧑🏽‍💻 Full Stack Developer | 📊 Data & AI & LLM | ☁️ Cloud </h2>
  
 <h3 align="center"> 🛠 Skills & Expertise 🛠 <br>
 <p align="center">
