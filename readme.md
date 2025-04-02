@@ -8,7 +8,7 @@
 <h3 align="center"> 🛠 Skills & Expertise 🛠 <br>
 <p align="center">
   🌱 <b>Frameworks and Libraries:</b> Angular, ReactJS, Next.js <br>
-  📊 <b>Data & AI & ML:</b> Pandas, NumPy, Matplotlib, scikit-learn <br>
+  📊 <b>Data & AI & LLM:</b> Pandas, NumPy, Matplotlib, scikit-learn <br>
   ☁️ <b>Cloud is so awesome: AWS, Google, Azure, Oracle. </b> I absolutely love exploring the APIs and the endless possibilities they offer for building, automating, and scaling solutions. 🚀✨ <br>
   🏄‍♂️ <b>Agile Methodologies:</b> Scrum, Kanban <br>
   🌍 <b>Languages:</b> Fluent in English, Advanced in Spanish, Intermediate in French and Italian, Technical in German, Starting in Mandarin, Native in Portuguese <br>
