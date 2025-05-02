@@ -134,7 +134,7 @@
 
 ### UNDERGRADUATE EDUCATION
 
-* 👨‍💻 [Computer Science at Anhnanguera, SP, (2025-208);
+* 👨‍💻 [Computer Science at Anhnanguera, SP, (2025-2028);
 * 👨‍💻 [Computer Science at Estácio, SP, (2004-2025);](assets-Grad-postGrad/gradEstacio_SP/diplomaCienciaComputacaoGradEstacioSP-Frente.png)
 * 🌱 [Biology at IBILCE/UNESP, SP;(2000)](assets-Grad-postGrad/gradIBILCE_UNESP/diplomaBiologiaGradUNESP-Frente.png)
 
