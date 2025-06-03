@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Andrehlb/Andrehlb/main/Assets/BackGraund-Topo-GitHub/andrehlbProfileGitHub-Presentation-Image_with_Devs.png" alt="Banner de apresentação" width="700">
+  <img src="https://raw.githubusercontent.com/Andrehlb/Andrehlb/main/Assets/BackGraund-Topo-GitHub/andrehlbProfileGitHub-Presentation-Image_with_Devs.png" alt="Presentation banner" width="700">
 </p>
 
-<!-- Habilidades e expertise -->
+<!-- Skills and expertise -->
 <h2 align = "center"> 🧑🏽‍💻 Full Stack Developer | 📊 Data & AI & LLM | ☁️ Cloud </h2>
  
 <h3 align="center"> 🛠 Skills & Expertise 🛠 </h3>
@@ -14,40 +14,40 @@
   🌍 <b>Languages:</b> Fluent in English, Advanced in Spanish, Intermediate in French and Italian, Technical German, Beginner in Mandarin, Native in Portuguese <br>
 </p>
 
-<!-- Projetos em Destaque -->
+<!-- Featured Projects -->
 ### 🔥🚀 Top Projects
-- **Simple Banking System - DB & Crypto Token** - Sistema bancário avançado com suporte a criptografia e gerenciamento de tokens. *(Python, PostgreSQL, Security)* [🔗 Repositório](https://github.com/Andrehlb/SimpleBankingSystem-DB-Crypto-token.git)
-- **Java RESTful API - League of Legends** - API desenvolvida durante o Santander Dev Week 2024. *(Java 21, Spring Boot 3, H2 Database)* [🔗 Repositório](https://github.com/Andrehlb/Java-RestFull-API-SpringBoot-LeagueOfLegends-Santander)
+- **Simple Banking System - DB & Crypto Token** - Advanced banking system with encryption and token management. *(Python, PostgreSQL, Security)* [🔗 Repository](https://github.com/Andrehlb/SimpleBankingSystem-DB-Crypto-token.git)
+- **Java RESTful API - League of Legends** - API developed during Santander Dev Week 2024. *(Java 21, Spring Boot 3, H2 Database)* [🔗 Repository](https://github.com/Andrehlb/Java-RestFull-API-SpringBoot-LeagueOfLegends-Santander)
 
-<!-- Outros Projetos -->
+<!-- Other Projects -->
 ### 🏦 Backend Development
-- **Task Manager API (Flask)** - Backend para gerenciamento de tarefas utilizando Flask. *(Python, Flask, SQLite)* [🔗 Repositório](https://github.com/Andrehlb/TaskManager-Python.git)
-- **Task Manager API (Fastify)** - Backend de gerenciamento de tarefas otimizado para alta performance. *(Node.js, Fastify, PostgreSQL)* [🔗 Repositório](https://github.com/Andrehlb/TaskManager-Fastify-React.git)
-- **Auto Event Google Calendar** - Automação para criação de eventos no Google Calendar a partir de informações extraídas de páginas da web. *(Python, Google Calendar API)* [🔗 Repositório](https://github.com/Andrehlb/auto-event-google-calendar)
-- **Auditoria EC2 AWS CloudTrail Cafeteria** - Projeto para auditoria de ações executadas na conta AWS usando o AWS CloudTrail. *(AWS, CloudTrail)* [🔗 Repositório](https://github.com/Andrehlb/auditoria-EC2-AWS_CloudTrail_Cafeteria)
+- **Task Manager API (Flask)** - Backend for task management using Flask. *(Python, Flask, SQLite)* [🔗 Repository](https://github.com/Andrehlb/TaskManager-Python.git)
+- **Task Manager API (Fastify)** - High-performance task management backend. *(Node.js, Fastify, PostgreSQL)* [🔗 Repository](https://github.com/Andrehlb/TaskManager-Fastify-React.git)
+- **Auto Event Google Calendar** - Automation for creating Google Calendar events from web page information. *(Python, Google Calendar API)* [🔗 Repository](https://github.com/Andrehlb/auto-event-google-calendar)
+- **Auditoria EC2 AWS CloudTrail Cafeteria** - Audit of AWS account actions using AWS CloudTrail. *(AWS, CloudTrail)* [🔗 Repository](https://github.com/Andrehlb/auditoria-EC2-AWS_CloudTrail_Cafeteria)
 
 ### ☁️ Cloud Computing & DevOps
-- **Azure AI - Bike Rental Endpoints** - Desenvolvimento de endpoints para aluguel de bicicletas na Azure AI. *(Azure ML, Python, FastAPI)* [🔗 Repositório](https://github.com/Andrehlb/AzureAI-MLStudio-BikeRental-EndPoints)
-- **Azure ML - Face & Text Analysis** - Processamento de imagens e reconhecimento facial no Azure ML. *(Python, OpenCV, Azure Cognitive Services)* [🔗 Repositório](https://github.com/Andrehlb/AzureML-FaceTextAnalysisDataProcessing)
-- **AWS EC2 Bastion & Webserver** - Gerenciamento de instâncias AWS EC2 para criação de um bastion host e um webserver. *(AWS, EC2, CloudFormation)* [🔗 Repositório](https://github.com/Andrehlb/AWS-EC2-Bastion-Webserver-Connect-CLI-Lab)
-- **CafeteriaAppMigration AWS RDS EC2 LAMP** - Migração de um aplicativo web para usar banco de dados gerenciado pelo Amazon RDS e EC2. *(AWS, RDS, EC2, LAMP)* [🔗 Repositório](https://github.com/Andrehlb/CafeteriaAppMigration-AWS-RDS-EC2-LAMP)
+- **Azure AI - Bike Rental Endpoints** - Development of bike rental endpoints on Azure AI. *(Azure ML, Python, FastAPI)* [🔗 Repository](https://github.com/Andrehlb/AzureAI-MLStudio-BikeRental-EndPoints)
+- **Azure ML - Face & Text Analysis** - Image processing and facial recognition on Azure ML. *(Python, OpenCV, Azure Cognitive Services)* [🔗 Repository](https://github.com/Andrehlb/AzureML-FaceTextAnalysisDataProcessing)
+- **AWS EC2 Bastion & Webserver** - Management of AWS EC2 instances to create a bastion host and a webserver. *(AWS, EC2, CloudFormation)* [🔗 Repository](https://github.com/Andrehlb/AWS-EC2-Bastion-Webserver-Connect-CLI-Lab)
+- **CafeteriaAppMigration AWS RDS EC2 LAMP** - Migration of a web application to an Amazon RDS-managed database and EC2. *(AWS, RDS, EC2, LAMP)* [🔗 Repository](https://github.com/Andrehlb/CafeteriaAppMigration-AWS-RDS-EC2-LAMP)
 
-### 🎯 Inteligência Artificial & Machine Learning
-- **AI - Naive Bayes Classifier** - Implementação de um classificador Naive Bayes para aprendizado de máquina. *(Python, scikit-learn)* [🔗 Repositório](https://github.com/Andrehlb/AI-NaiveBayes-Classifier)
-- **LangChain React AI ML LLM Token API Py Agent** - Implementação de um agente ReAct em LangChain para aplicações de IA. *(Python, LangChain, OpenAI API)* [🔗 Repositório](https://github.com/Andrehlb/LangChain-React-AI-ML-LLM-Token-API-Py-agent)
+### 🎯 Artificial Intelligence & Machine Learning
+- **AI - Naive Bayes Classifier** - Implementation of a Naive Bayes classifier for machine learning. *(Python, scikit-learn)* [🔗 Repository](https://github.com/Andrehlb/AI-NaiveBayes-Classifier)
+- **LangChain React AI ML LLM Token API Py Agent** - Implementation of a ReAct agent in LangChain for AI applications. *(Python, LangChain, OpenAI API)* [🔗 Repository](https://github.com/Andrehlb/LangChain-React-AI-ML-LLM-Token-API-Py-agent)
 
 ### 🌐 Web Development & Frontend
-- **Consumindo API** - Projeto demonstrando consumo de APIs com JavaScript. *(CSS, JavaScript)* [🔗 Repositório](https://github.com/Andrehlb/consumindoAPI)
-- **Loja Esportiva AWS** - Desenvolvimento de um e-commerce de artigos esportivos utilizando AWS. *(JavaScript, AWS)* [🔗 Repositório](https://github.com/Andrehlb/lojaEsportiva-AWS)
-- **HTML & JavaScript Tax Calculator** - Aplicação de cálculo de impostos via JavaScript. *(HTML, CSS, JavaScript)* [🔗 Repositório](https://github.com/Andrehlb/Calculadora-Impostos-Vendas-JavaScript)
-- **Web Page using PyScript** - Criação de páginas interativas utilizando PyScript. *(Python, HTML, CSS, PyScript)* [🔗 Repositório](https://github.com/Andrehlb/Web-Page-using-PyScript)
+- **Consumindo API** - Project demonstrating API consumption with JavaScript. *(CSS, JavaScript)* [🔗 Repository](https://github.com/Andrehlb/consumindoAPI)
+- **Loja Esportiva AWS** - Development of a sports merchandise e-commerce using AWS. *(JavaScript, AWS)* [🔗 Repository](https://github.com/Andrehlb/lojaEsportiva-AWS)
+- **HTML & JavaScript Tax Calculator** - Tax calculator application using JavaScript. *(HTML, CSS, JavaScript)* [🔗 Repository](https://github.com/Andrehlb/Calculadora-Impostos-Vendas-JavaScript)
+- **Web Page using PyScript** - Creation of interactive pages with PyScript. *(Python, HTML, CSS, PyScript)* [🔗 Repository](https://github.com/Andrehlb/Web-Page-using-PyScript)
 
 ---
-📌 Nota: A lista acima foca nos projetos mais relevantes para colaboradores, recrutadores e empregadores.<br> Outros projetos podem ser encontrados na seção [🔗 Repositórios][repositoriesLink].
+📌 Note: The list above focuses on the most relevant projects for collaborators, recruiters and employers.<br> Other projects can be found in the [🔗 Repositories][repositoriesLink] section.
 
 ---
 
-<!-- Educação e Certificações -->
+<!-- Education and Certifications -->
 ### 🎓 Education & Certifications 
 
 #### Postgraduate Education
@@ -87,9 +87,9 @@
 
 ### Ada Tech | Santander Coders 2025
 
-- [Lógica de programação com Javascript (Node.JS), atualização, Jan 2025](https://github.com/Andrehlb/Andrehlb/blob/main/certificados/Node_JSLogica-programacao-Javascript-Jan2025.png)
-- [Git e Versionamento, atualização, Dez 2024](https://github.com/Andrehlb/Andrehlb/blob/main/certificados/gitVersionamento.png)
-- [Introdução ao Node.JS com Express, atualização, Jan 2025](https://github.com/Andrehlb/Andrehlb/blob/main/certificados/introducaoNodeJS-Express.png)
+- [Programming Logic with JavaScript (Node.js), updated Jan 2025](https://github.com/Andrehlb/Andrehlb/blob/main/certificados/Node_JSLogica-programacao-Javascript-Jan2025.png)
+- [Git and Version Control, updated Dec 2024](https://github.com/Andrehlb/Andrehlb/blob/main/certificados/gitVersionamento.png)
+- [Introduction to Node.js with Express, updated Jan 2025](https://github.com/Andrehlb/Andrehlb/blob/main/certificados/introducaoNodeJS-Express.png)
 
 <!-- Redes Sociais -->
   ## <div align = "center">Below my Social networks 🌐</div>
@@ -98,7 +98,7 @@
   <a href="https://www.linkedin.com/in/andrehlb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCK0KkXbsrsWKJjx0F4dp-Og" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="insta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="twich"_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+        <a href="twitch" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/Andrehlb#7664" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.dio.me/users/andrehlbarbosa" target="_blank"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="57" target="_blank"></a>
   <a href = "mailto:andrehlbarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
@@ -117,7 +117,7 @@
 <h2 align = "center"> Please tap on the Badges to navigate to the respective code project </h2>
   <p style="display: inline_block"><br>
   <a href = "#dataScience-projects">
-  <img align="center" alt="Andrehlb-Data Science | Dados" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Andrehlb-Data Science" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    </a>
   <a href = "#py-projects">
   <img align="center" alt="Andrehlb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -168,7 +168,7 @@
 - [HTML & JavaScript Tax Calculator](https://github.com/Andrehlb/Calculadora-Impostos-Vendas-JavaScript)
 
 ### <a id="dart-projects"></a> Dart
-Projetos em Flutter e Dart em desenvolvimento.
+Flutter and Dart projects in development.
 
   
 <div align="center">
