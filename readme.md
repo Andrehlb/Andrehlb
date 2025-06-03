@@ -5,13 +5,13 @@
 <!-- Habilidades e expertise -->
 <h2 align = "center"> 🧑🏽‍💻 Full Stack Developer | 📊 Data & AI & LLM | ☁️ Cloud </h2>
  
-<h3 align="center"> 🛠 Skills & Expertise 🛠 <br>
+<h3 align="center"> 🛠 Skills & Expertise 🛠 </h3>
 <p align="center">
   🌱 <b>Frameworks and Libraries:</b> Angular, ReactJS, Next.js <br>
   📊 <b>Data, AI & LLM:</b> Pandas, NumPy, Matplotlib, Scikit-learn<br>
-  ☁️ <b>Cloud is so awesome: AWS, Google, Azure, Oracle. </b> I thrive on exploring APIs and leveraging their power to build, automate, and scale innovative solutions.. 🚀✨ <br>
+  ☁️ <b>Cloud:</b> AWS, Google Cloud, Azure, Oracle. I thrive on exploring APIs and leveraging them to build, automate and scale innovative solutions. 🚀✨ <br>
   🏄‍♂️ <b>Agile Methodologies:</b> Scrum, Kanban <br>
-  🌍 <b>Languages:</b> Fluent in English, Advanced in Spanish, Intermediate in French and Italian, Technical in German, Starting in Mandarin, Native in Portuguese <br>
+  🌍 <b>Languages:</b> Fluent in English, Advanced in Spanish, Intermediate in French and Italian, Technical German, Beginner in Mandarin, Native in Portuguese <br>
 </p>
 
 <!-- Projetos em Destaque -->
@@ -57,7 +57,7 @@
 
 ### UNDERGRADUATE EDUCATION
 
-* 👨‍💻 [Computer Science at Anhnanguera, SP, (2025-2028);
+* 👨‍💻 Computer Science at Anhanguera, SP (2025-2028)
 * 👨‍💻 [Computer Science at Estácio, SP, (2004-2025);](assets-Grad-postGrad/gradEstacio_SP/diplomaCienciaComputacaoGradEstacioSP-Frente.png)
 * 🌱 [Biology at IBILCE/UNESP, SP;(2000)](assets-Grad-postGrad/gradIBILCE_UNESP/diplomaBiologiaGradUNESP-Frente.png)
 
@@ -72,10 +72,9 @@
 - Full-Stack Development:
   * Let´s Code: Back-End: Python and Java;
   
-  * <img src="Assets/Logos/Capgemini-Logo.wine.svg" alt="Capgemni" width="157" align="top" target="_blank"/>
+  * Capgemini
 
-  * <a href="https://web.dio.me/users/andrehlbarbosa?tab=projects&page=1" target="_blank"> ![Dio. Projects](https://img.shields.io/badge/Projects-<greenlight>)
-<a href="https://web.dio.me/users/andrehlbarbosa?tab=projects&page=1"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="57" target="_blank"></a>
+  * [Dio Projects](https://web.dio.me/users/andrehlbarbosa?tab=projects&page=1)
  
   * IBM by Coursera: Web Development;
   * Start.Se: Web Development;
@@ -93,7 +92,7 @@
 - [Introdução ao Node.JS com Express, atualização, Jan 2025](https://github.com/Andrehlb/Andrehlb/blob/main/certificados/introducaoNodeJS-Express.png)
 
 <!-- Redes Sociais -->
-  ## <div align = "center">Bellow my Social networks 🌐</div>
+  ## <div align = "center">Below my Social networks 🌐</div>
 
 <div align = "center">
   <a href="https://www.linkedin.com/in/andrehlb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -137,7 +136,7 @@
    </a>
   <a href= "#dart-projects">
   <img align="center" alt="Andrehlb-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
-  </P>
+  </p>
 </div>
   
 <div align="center">
