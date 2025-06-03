@@ -128,16 +128,48 @@
     <a href = "#java-projects">
   <img align="center" alt="Andrehlb-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
    </a>
-    <a href="#js-projects">
-  <img align="center" alt="Andrejlb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <a href="#js-projects">
+  <img align="center" alt="Andrehlb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
-  <a href = "https://github.com/Andrehlb/WebDevelpment.git" target = "_blank"><img align="center" alt="Andrehlb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Andrehlb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
+  <a href = "https://github.com/Andrehlb/WebDevelopment" target = "_blank"><img align="center" alt="Andrehlb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Andrehlb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </a>
   <a href= "#dart-projects">
   <img align="center" alt="Andrehlb-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   </p>
 </div>
+
+---
+
+## Project Index
+
+### <a id="dataScience-projects"></a> Data Science
+- [AI - Naive Bayes Classifier](https://github.com/Andrehlb/AI-NaiveBayes-Classifier)
+- [Generative AI Azure Copilot OpenAI](https://github.com/Andrehlb/generative-AI-Azure-Copilot-OpenAI)
+- [Data Science Embraer](https://github.com/Andrehlb/DataScience_Embraer)
+- [Data Science Unimed BH](https://github.com/Andrehlb/Data-Science-Unimed_BH)
+
+### <a id="py-projects"></a> Python
+- [Simple Banking System - DB & Crypto Token](https://github.com/Andrehlb/SimpleBankingSystem-DB-Crypto-token.git)
+- [Task Manager API (Flask)](https://github.com/Andrehlb/TaskManager-Python.git)
+- [Auto Event Google Calendar](https://github.com/Andrehlb/auto-event-google-calendar)
+- [Web Page using PyScript](https://github.com/Andrehlb/Web-Page-using-PyScript)
+
+### <a id="R-projects"></a> R
+- [R-Universe](https://github.com/Andrehlb/R-Universe)
+
+### <a id="java-projects"></a> Java
+- [Java RESTful API - League of Legends](https://github.com/Andrehlb/Java-RestFul-API-SpringBoot-LeagueOfLegends-Santander)
+
+### <a id="js-projects"></a> JavaScript
+- [Task Manager API (Fastify)](https://github.com/Andrehlb/TaskManager-Fastify-React.git)
+- [Consumindo API](https://github.com/Andrehlb/consumindoAPI)
+- [Loja Esportiva AWS](https://github.com/Andrehlb/lojaEsportiva-AWS)
+- [HTML & JavaScript Tax Calculator](https://github.com/Andrehlb/Calculadora-Impostos-Vendas-JavaScript)
+
+### <a id="dart-projects"></a> Dart
+Projetos em Flutter e Dart em desenvolvimento.
+
   
 <div align="center">
 
@@ -166,6 +198,9 @@
 
 
 ## <div align = "center">Andrehlb's Profile </div>
+
+### License
+This project is released under the [MIT License](LICENSE).
 
 
 
