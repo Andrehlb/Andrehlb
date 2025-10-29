@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Andrehlb/Andrehlb/main/Assets/BackGraund-Topo-GitHub/andrehlbProfileGitHub-Presentation-Image_with_Devs.png" alt="Presentation banner" width="700">
+  <img src="./Assets/BackGraund-Topo-GitHub/andrehlbProfileGitHub-Presentation-Image_with_Devs.png" alt="Presentation banner" width="700">
 </p>
 
 <!-- Skills and expertise -->
