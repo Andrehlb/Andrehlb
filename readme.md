@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Andrehlb/Andrehlb/main/Assets/BackGraund-Topo-GitHub/andrehlbProfileGitHub-Presentation-Image_with_Devs.png"
+  <img src="https://raw.githubusercontent.com/Andrehlb/Andrehlb/main/Assets/BackGround-Topo-GitHub/andrehlbProfileGitHub-Presentation-Image_with_Devs.png"
        alt="Banner de apresentação" 
        width="700">
 
