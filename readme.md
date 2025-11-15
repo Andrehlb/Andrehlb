@@ -9,11 +9,20 @@
  
 <h3 align="center"> 🛠 Skills & Expertise 🛠 </h3>
 <p align="center">
-  🌱 <b>Frameworks and Libraries:</b> Angular, ReactJS, Next.js <br>
-  📊 <b>Data, AI & LLM:</b> Pandas, NumPy, Matplotlib, Scikit-learn<br>
-  ☁️ <b>Cloud:</b> AWS, Google Cloud, Azure, Oracle. I thrive on exploring APIs and leveraging them to build, automate and scale innovative solutions. 🚀✨ <br>
+
+  📱 <b>Android & Mobile:</b> Kotlin, Java, Flutter, Android SDK, Jetpack, Compose (learning), Android NDK, AOSP (Android Open Source Project), Android Build System, Embarcado & Cuttlefish Emulator <br>
+
+  🧩 <b>System & Embedded:</b> Linux internals, Shell scripting, Buildroot basics, HAL overview, System images, Device configuration, low-level debugging <br>
+
+  🌱 <b>Frameworks & Libraries (Web):</b> Angular, ReactJS, Next.js <br>
+
+  📊 <b>Data, AI & LLM:</b> Pandas, NumPy, Matplotlib, Scikit-learn, LLMs, Prompt Engineering, GenAI, Vector Stores <br>
+
+  ☁️ <b>Cloud:</b> AWS, Google Cloud, Azure, Oracle — experienced with APIs, automation, CI/CD and cloud-native workflows 🚀✨ <br>
+
   🏄‍♂️ <b>Agile Methodologies:</b> Scrum, Kanban <br>
-  🌍 <b>Languages:</b> Fluent in English, Advanced in Spanish, Intermediate in French and Italian, Technical German, Beginner in Mandarin, Native in Portuguese <br>
+
+  🌍 <b>Languages:</b> Fluent in English, Advanced Spanish, Intermediate French & Italian, Technical German, Beginner Mandarin, Native Portuguese <br>
 </p>
 
 <!-- Featured Projects -->
