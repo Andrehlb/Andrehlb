@@ -5,7 +5,7 @@
 </p>
 
 <!-- Skills and expertise -->
-<h2 align = "center"> 🧑🏽‍💻 Full Stack Developer | 📊 Data & AI & LLM | ☁️ Cloud </h2>
+<h2 align = "center"> 🧑🏽‍💻 Android anf Mobile | 📊 Data & AI & LLM | ☁️ Cloud </h2>
  
 <h3 align="center"> 🛠 Skills & Expertise 🛠 </h3>
 <p align="center">
