@@ -184,7 +184,7 @@ Turns event information into ready-to-use Google Calendar entries.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Andrehlb/snake-game">
+  <a href="https://andrehlb.github.io/snake-game/?return=https://github.com/Andrehlb%23easter-egg">
     <img
       src="https://img.shields.io/badge/Snake_Game-View_Project-C65D20?style=for-the-badge"
       alt="Snake Game project"
