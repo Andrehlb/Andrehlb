@@ -19,16 +19,16 @@
 <br>
 
 <p align="center">
-  <a href="#story">
+  <a href="profile/story.md">
     <img src="https://img.shields.io/badge/Story-B87333?style=for-the-badge" alt="Story">
   </a>
-  <a href="#stack">
+  <a href="profile/stack.md">
     <img src="https://img.shields.io/badge/Stack-211A14?style=for-the-badge" alt="Stack">
   </a>
-  <a href="#projects">
+  <a href="profile/projects.md">
     <img src="https://img.shields.io/badge/Projects-C65D20?style=for-the-badge" alt="Projects">
   </a>
-  <a href="#credentials">
+  <a href="profile/credentials.md">
     <img src="https://img.shields.io/badge/Credentials-B87333?style=for-the-badge" alt="Credentials">
   </a>
   <a href="#easter-egg">
@@ -41,136 +41,6 @@
 
 <br>
 
-<a id="story"></a>
-
-## Story
-
-My path crosses disciplines, from interfaces and mobile systems to data, cloud and AI.
-I turn that range into useful software shaped around real people and real problems.
-The goal is simple: human experiences supported by thoughtful, solid engineering.
-
-<a id="stack"></a>
-
-## Stack
-
-> ### 01 — Mobile & Embedded
->
-> Building close to the user — from polished interfaces to connected devices.
-> `Android` · `Kotlin` · `Java` · `Flutter` · `Embedded Systems`
-
-> ### 02 — Data, AI & Automation
->
-> Turning information into decisions, intelligence and less repetitive work.
-> `Python` · `Pandas` · `Power BI` · `LLMs` · `Automation`
-
-> ### 03 — Cloud & Full Stack
->
-> Connecting product experiences to reliable services and cloud infrastructure.
-> `React` · `Next.js` · `Node.js` · `TypeScript` · `AWS` · `Azure` · `GCP`
-
-<a id="projects"></a>
-
-## Selected Projects
-
-### Portal de Venda de Ingressos
-
-A clearer ticketing journey for customers, events and business operations.  
-`Next.js` · `Node.js` · `REST APIs`
-
-<table>
-  <tr>
-    <td width="90">
-      <img
-        src="https://cdn.simpleicons.org/github/ffffff"
-        width="14"
-        height="14"
-        alt="GitHub"
-      >
-      GitHub
-    </td>
-    <td>
-      <a href="https://github.com/Andrehlb/portal-ingressos-frontend">
-        Portal Ingressos · Frontend
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="90">
-      <img
-        src="https://cdn.simpleicons.org/github/ffffff"
-        width="14"
-        height="14"
-        alt="GitHub"
-      >
-      GitHub
-    </td>
-    <td>
-      <a href="https://github.com/Andrehlb/portal-ingressos-backend">
-        Portal Ingressos · Backend
-      </a>
-    </td>
-  </tr>
-</table>
-
-### Chat MultiGeração
-
-Conversational technology designed to be accessible across different generations.  
-`Java` · `Spring Boot` · `Swagger/OpenAPI`
-
-<table>
-  <tr>
-    <td width="90">
-      <img
-        src="https://cdn.simpleicons.org/github/ffffff"
-        width="14"
-        height="14"
-        alt="GitHub"
-      >
-      GitHub
-    </td>
-    <td>
-      <a href="https://github.com/Andrehlb/chatMultiGeracao-API-REST-SpringBootSwagger">
-        Chat MultiGeração · Repository
-      </a>
-    </td>
-  </tr>
-</table>
-
-### Auto Event Google Calendar
-
-Turns event information into ready-to-use Google Calendar entries.  
-`Python` · `Google Calendar API`
-
-<table>
-  <tr>
-    <td width="90">
-      <img
-        src="https://cdn.simpleicons.org/github/ffffff"
-        width="14"
-        height="14"
-        alt="GitHub"
-      >
-      GitHub
-    </td>
-    <td>
-      <a href="https://github.com/Andrehlb/auto-event-google-calendar">
-        Auto Event Google Calendar · Repository
-      </a>
-    </td>
-  </tr>
-</table>
-
-<a id="credentials"></a>
-
-## Credentials
-
-- **Mobile & Product**  
-  Descomplica 4.0 · Venturus · Flutter · Android · UI · Design Systems
-- **Cloud & Engineering**  
-  AWS re/Start · Avanade · Santander · Ada Tech · DIO
-- **AI & Data**  
-  Microsoft Azure AI · Google / Looker · IBM SkillsBuild · NVIDIA SkillsBuild
-
 <a id="easter-egg"></a>
 
 ## Easter Egg
@@ -180,19 +50,17 @@ Turns event information into ready-to-use Google Calendar entries.
 </p>
 
 <p align="center">
-  The interactive Snake experience is being prepared for GitHub Pages.
+  Collect tech tokens, unlock projects and build the trail.
 </p>
 
 <p align="center">
   <a href="https://andrehlb.github.io/snake-game/?return=https://github.com/Andrehlb%23easter-egg">
     <img
-      src="https://img.shields.io/badge/Snake_Game-View_Project-C65D20?style=for-the-badge"
-      alt="Snake Game project"
+      src="https://img.shields.io/badge/Play_Snake-Open_Easter_Egg-C65D20?style=for-the-badge"
+      alt="Play Snake"
     >
   </a>
 </p>
-
-<br>
 
 <a id="contact"></a>
 
