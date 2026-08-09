@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Andrehlb/Andrehlb/main/Assets/BackGround-Topo-GitHub/andrehlbProfileGitHub-Presentation-Image_with_Devs.png"
+    src="Assets/BackGround-Topo-GitHub/andrehlbProfileGitHub-Presentation-Image_with_Devs.png"
     alt="André Luiz Barbosa — developer portfolio"
     width="900"
   >
