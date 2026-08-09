@@ -75,24 +75,97 @@ The goal is simple: human experiences supported by thoughtful, solid engineering
 ### Portal de Venda de Ingressos
 
 A clearer ticketing journey for customers, events and business operations.  
-`Next.js` · `Node.js` · `REST APIs` — [Frontend](https://github.com/Andrehlb/portal-ingressos-frontend) · [Backend](https://github.com/Andrehlb/portal-ingressos-backend)
+`Next.js` · `Node.js` · `REST APIs`
+
+<table>
+  <tr>
+    <td width="90">
+      <img
+        src="https://cdn.simpleicons.org/github/ffffff"
+        width="14"
+        height="14"
+        alt="GitHub"
+      >
+      GitHub
+    </td>
+    <td>
+      <a href="https://github.com/Andrehlb/portal-ingressos-frontend">
+        Portal Ingressos · Frontend
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="90">
+      <img
+        src="https://cdn.simpleicons.org/github/ffffff"
+        width="14"
+        height="14"
+        alt="GitHub"
+      >
+      GitHub
+    </td>
+    <td>
+      <a href="https://github.com/Andrehlb/portal-ingressos-backend">
+        Portal Ingressos · Backend
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Chat MultiGeração
 
 Conversational technology designed to be accessible across different generations.  
-`Java` · `Spring Boot` · `Swagger/OpenAPI` — [Explore project](https://github.com/Andrehlb/chatMultiGeracao-API-REST-SpringBootSwagger)
+`Java` · `Spring Boot` · `Swagger/OpenAPI`
+
+<table>
+  <tr>
+    <td width="90">
+      <img
+        src="https://cdn.simpleicons.org/github/ffffff"
+        width="14"
+        height="14"
+        alt="GitHub"
+      >
+      GitHub
+    </td>
+    <td>
+      <a href="https://github.com/Andrehlb/chatMultiGeracao-API-REST-SpringBootSwagger">
+        Chat MultiGeração · Repository
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Auto Event Google Calendar
 
 Turns event information into ready-to-use Google Calendar entries.  
-`Python` · `Google Calendar API` — [Explore project](https://github.com/Andrehlb/auto-event-google-calendar)
+`Python` · `Google Calendar API`
+
+<table>
+  <tr>
+    <td width="90">
+      <img
+        src="https://cdn.simpleicons.org/github/ffffff"
+        width="14"
+        height="14"
+        alt="GitHub"
+      >
+      GitHub
+    </td>
+    <td>
+      <a href="https://github.com/Andrehlb/auto-event-google-calendar">
+        Auto Event Google Calendar · Repository
+      </a>
+    </td>
+  </tr>
+</table>
 
 <a id="credentials"></a>
 
 ## Credentials
 
 - **Mobile & Product**  
-  Venturus · Flutter · Android · UI · Design Systems
+  Descomplica 4.0 · Venturus · Flutter · Android · UI · Design Systems
 - **Cloud & Engineering**  
   AWS re/Start · Avanade · Santander · Ada Tech · DIO
 - **AI & Data**  
@@ -107,14 +180,14 @@ Turns event information into ready-to-use Google Calendar entries.
 </p>
 
 <p align="center">
-  Collect tech tokens, unlock projects and build the trail.
+  The interactive Snake experience is being prepared for GitHub Pages.
 </p>
 
 <p align="center">
-  <a href="https://andrehlb.github.io/snake-game/?return=https://github.com/Andrehlb%23easter-egg">
+  <a href="https://github.com/Andrehlb/snake-game">
     <img
-      src="https://img.shields.io/badge/Play_Snake-Open_Easter_Egg-C65D20?style=for-the-badge&logo=githubpages&logoColor=white"
-      alt="Play Snake"
+      src="https://img.shields.io/badge/Snake_Game-View_Project-C65D20?style=for-the-badge"
+      alt="Snake Game project"
     >
   </a>
 </p>
