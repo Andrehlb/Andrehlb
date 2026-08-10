@@ -9,6 +9,24 @@
 <h1 align="center">André Luiz Barbosa</h1>
 
 <p align="center">
+  <a href="https://www.facebook.com/andrehlbfullstack">
+    <img src="Assets/Profile-Icons/social/facebook.svg" alt="Facebook Andrehlb Full Stack" height="36">
+  </a>
+  <a href="https://www.instagram.com/andrehlbfullstack">
+    <img src="Assets/Profile-Icons/social/instagram.svg" alt="Instagram Andrehlb Full Stack" height="36">
+  </a>
+  <a href="https://www.threads.net/@andrehlbfullstack">
+    <img src="Assets/Profile-Icons/social/threads.svg" alt="Threads Andrehlb Full Stack" height="36">
+  </a>
+  <a href="https://www.tiktok.com/@andrehlb.devlab">
+    <img src="Assets/Profile-Icons/social/tiktok.svg" alt="TikTok Andrehlb DevLab" height="36">
+  </a>
+  <a href="https://www.youtube.com/@andrehlb-devlab">
+    <img src="Assets/Profile-Icons/social/youtube.svg" alt="YouTube Andrehlb DevLab" height="36">
+  </a>
+</p>
+
+<p align="center">
   <strong>Android & Embedded • AI/Data • Cloud • Full Stack</strong>
 </p>
 
