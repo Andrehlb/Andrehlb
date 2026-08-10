@@ -20,22 +20,22 @@
 
 <p align="center">
   <a href="profile/story.md">
-    <img src="https://img.shields.io/badge/Story-B87333?style=for-the-badge" alt="Story">
+    <img src="Assets/Profile-Icons/menu/story.svg" alt="Story" height="44">
   </a>
   <a href="profile/stack.md">
-    <img src="https://img.shields.io/badge/Stack-211A14?style=for-the-badge" alt="Stack">
+    <img src="Assets/Profile-Icons/menu/stack.svg" alt="Stack" height="44">
   </a>
   <a href="profile/projects.md">
-    <img src="https://img.shields.io/badge/Projects-C65D20?style=for-the-badge" alt="Projects">
+    <img src="Assets/Profile-Icons/menu/projects.svg" alt="Projects" height="44">
   </a>
   <a href="profile/credentials.md">
-    <img src="https://img.shields.io/badge/Credentials-B87333?style=for-the-badge" alt="Credentials">
+    <img src="Assets/Profile-Icons/menu/credentials.svg" alt="Credentials" height="44">
   </a>
   <a href="#easter-egg">
-    <img src="https://img.shields.io/badge/Easter_Egg-C65D20?style=for-the-badge" alt="Easter Egg">
+    <img src="Assets/Profile-Icons/menu/easter-egg.svg" alt="Easter Egg" height="44">
   </a>
   <a href="#contact">
-    <img src="https://img.shields.io/badge/Contact-211A14?style=for-the-badge" alt="Contact">
+    <img src="Assets/Profile-Icons/menu/contact.svg" alt="Contact" height="44">
   </a>
 </p>
 
@@ -46,18 +46,19 @@
 ## Easter Egg
 
 <p align="center">
-  <strong>There is one more path hidden inside this portfolio.</strong>
+  <strong>A playful detour is hidden inside this portfolio.</strong>
 </p>
 
 <p align="center">
-  Collect tech tokens, unlock projects and build the trail.
+  Collect tech tokens, reveal projects and keep the trail alive.
 </p>
 
 <p align="center">
   <a href="https://andrehlb.github.io/snake-game/?return=https://github.com/Andrehlb%23easter-egg">
     <img
-      src="https://img.shields.io/badge/Play_Snake-Open_Easter_Egg-C65D20?style=for-the-badge"
+      src="Assets/Profile-Icons/menu/easter-egg.svg"
       alt="Play Snake"
+      height="56"
     >
   </a>
 </p>
@@ -68,34 +69,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrehlb/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Andrehlb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    >
+    <img src="Assets/Profile-Icons/contact/linkedin.svg" alt="LinkedIn" height="40">
   </a>
   <a href="https://github.com/Andrehlb">
-    <img
-      src="https://img.shields.io/badge/GitHub-Andrehlb-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    >
+    <img src="Assets/Profile-Icons/contact/github.svg" alt="GitHub" height="40">
   </a>
   <a href="https://andrehlb.github.io">
-    <img
-      src="https://img.shields.io/badge/GitHub_Pages-Portfolio-B87333?style=for-the-badge&logo=githubpages&logoColor=white"
-      alt="GitHub Pages"
-    >
+    <img src="Assets/Profile-Icons/contact/github-pages.svg" alt="GitHub Pages" height="40">
   </a>
   <a href="mailto:andrehlb@yahoo.com">
-    <img
-      src="https://img.shields.io/badge/Yahoo-andrehlb%40yahoo.com-B87333?style=for-the-badge&logo=yahoo&logoColor=white"
-      alt="Yahoo email"
-    >
+    <img src="Assets/Profile-Icons/contact/yahoo.svg" alt="Yahoo email" height="40">
   </a>
   <a href="mailto:andrehlbarbosa@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-andrehlbarbosa%40gmail.com-C65D20?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    >
+    <img src="Assets/Profile-Icons/contact/gmail.svg" alt="Gmail" height="40">
   </a>
 </p>
 
