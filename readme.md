@@ -6,25 +6,25 @@
   >
 </p>
 
-<h1 align="center">André Luiz Barbosa</h1>
-
 <p align="center">
   <a href="https://www.facebook.com/andrehlbfullstack">
-    <img src="Assets/Profile-Icons/social/facebook.svg" alt="Facebook Andrehlb Full Stack" height="36">
+    <img src="Assets/Profile-Icons/social/facebook.svg" alt="Facebook Andrehlb Full Stack" height="28">
   </a>
   <a href="https://www.instagram.com/andrehlbfullstack">
-    <img src="Assets/Profile-Icons/social/instagram.svg" alt="Instagram Andrehlb Full Stack" height="36">
+    <img src="Assets/Profile-Icons/social/instagram.svg" alt="Instagram Andrehlb Full Stack" height="28">
   </a>
   <a href="https://www.threads.net/@andrehlbfullstack">
-    <img src="Assets/Profile-Icons/social/threads.svg" alt="Threads Andrehlb Full Stack" height="36">
+    <img src="Assets/Profile-Icons/social/threads.svg" alt="Threads Andrehlb Full Stack" height="28">
   </a>
   <a href="https://www.tiktok.com/@andrehlb.devlab">
-    <img src="Assets/Profile-Icons/social/tiktok.svg" alt="TikTok Andrehlb DevLab" height="36">
+    <img src="Assets/Profile-Icons/social/tiktok.svg" alt="TikTok Andrehlb DevLab" height="28">
   </a>
   <a href="https://www.youtube.com/@andrehlb-devlab">
-    <img src="Assets/Profile-Icons/social/youtube.svg" alt="YouTube Andrehlb DevLab" height="36">
+    <img src="Assets/Profile-Icons/social/youtube.svg" alt="YouTube Andrehlb DevLab" height="28">
   </a>
 </p>
+
+<h1 align="center">André Luiz Barbosa</h1>
 
 <p align="center">
   <strong>Android & Embedded • AI/Data • Cloud • Full Stack</strong>
@@ -38,22 +38,22 @@
 
 <p align="center">
   <a href="profile/story.md">
-    <img src="Assets/Profile-Icons/menu/story.svg" alt="Story" height="44">
+    <img src="Assets/Profile-Icons/menu/story.svg" alt="Story" height="39">
   </a>
   <a href="profile/stack.md">
-    <img src="Assets/Profile-Icons/menu/stack.svg" alt="Stack" height="44">
+    <img src="Assets/Profile-Icons/menu/stack.svg" alt="Stack" height="39">
   </a>
   <a href="profile/projects.md">
-    <img src="Assets/Profile-Icons/menu/projects.svg" alt="Projects" height="44">
+    <img src="Assets/Profile-Icons/menu/projects.svg" alt="Projects" height="39">
   </a>
   <a href="profile/credentials.md">
-    <img src="Assets/Profile-Icons/menu/credentials.svg" alt="Credentials" height="44">
+    <img src="Assets/Profile-Icons/menu/credentials.svg" alt="Credentials" height="39">
   </a>
   <a href="#easter-egg">
-    <img src="Assets/Profile-Icons/menu/easter-egg.svg" alt="Easter Egg" height="44">
+    <img src="Assets/Profile-Icons/menu/easter-egg.svg" alt="Easter Egg" height="39">
   </a>
   <a href="#contact">
-    <img src="Assets/Profile-Icons/menu/contact.svg" alt="Contact" height="44">
+    <img src="Assets/Profile-Icons/menu/contact.svg" alt="Contact" height="39">
   </a>
 </p>
 
