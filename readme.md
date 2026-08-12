@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="Assets/BackGround-Topo-GitHub/andrehlbProfileGitHub-Presentation-Image_with_Devs.png"
-    alt="André Luiz Barbosa — developer portfolio"
-    width="900"
+    src="./Assets/Profile-Hero/andrehlb-debug-sins-action-v3.gif"
+    alt="Andrehlb Debug Sins"
+    width="480"
   >
 </p>
 
@@ -58,6 +58,10 @@
 </p>
 
 <br>
+
+```
+
+```
 
 <a id="easter-egg"></a>
 
