@@ -8,7 +8,7 @@
   <a href="../readme.md#contact">Contact</a>
 </p>
 
-# Stack
+# Stack em construção 🚧
 
 Three connected pillars guide how I move from an idea to a useful, reliable product.
 
