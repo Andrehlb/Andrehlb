@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Culture, communication and public life</title>
+  <desc id="desc">Three manga panels show a university photography exhibition, an auditorium lecture and a respectful public health awareness action.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7F6F2" stop-opacity=".98"/><stop offset="1" stop-color="#E9E2D6" stop-opacity=".88"/></linearGradient>
+    <pattern id="tone" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".7" fill="#1A1A1A" opacity=".1"/></pattern>
+    <clipPath id="p1"><rect x="20" y="45" width="276" height="238" rx="9"/></clipPath><clipPath id="p2"><rect x="312" y="45" width="276" height="238" rx="9"/></clipPath><clipPath id="p3"><rect x="604" y="45" width="276" height="238" rx="9"/></clipPath>
+    <style>.title{font:600 13px Georgia,serif;letter-spacing:1.7px;fill:#1A1A1A}.label{font:italic 12px Georgia,serif;fill:#1A1A1A}.tiny{font:600 9px Arial,sans-serif;letter-spacing:1px;fill:#1A1A1A}.ink{fill:none;stroke:#1A1A1A;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.fine{fill:none;stroke:#1A1A1A;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round}.gold{fill:none;stroke:#C8A96A;stroke-width:1.4;stroke-linecap:round}</style>
+  </defs>
+  <rect x="1" y="1" width="898" height="328" rx="18" fill="url(#paper)" stroke="#C8A96A" stroke-width="1.5"/>
+  <text x="22" y="28" class="title">CULTURE · COMMUNICATION · PUBLIC LIFE</text><path d="M710 27h166" stroke="#C8A96A" opacity=".8"/>
+
+  <rect x="20" y="45" width="276" height="238" rx="9" fill="#F7F6F2" stroke="#C8A96A" stroke-width="1.2"/>
+  <g clip-path="url(#p1)">
+    <rect x="20" y="45" width="276" height="238" fill="#A7C2D6" opacity=".1"/>
+    <path d="M34 65h248v176H34z" fill="#E9E2D6" stroke="#1A1A1A" stroke-width="1.4"/>
+    <g fill="#F7F6F2" stroke="#1A1A1A" stroke-width="1.5">
+      <rect x="48" y="80" width="66" height="73"/><rect x="126" y="76" width="70" height="82"/><rect x="208" y="84" width="59" height="68"/>
+    </g>
+    <g fill="#1A1A1A" opacity=".82">
+      <path d="M54 142l18-30 14 17 11-8 12 21z"/><path d="M132 149l17-42 15 21 12-13 14 34z"/><path d="M213 144l13-21 11 8 10-23 15 36z"/>
+    </g>
+    <circle cx="78" cy="101" r="7" fill="#C8A96A"/><circle cx="178" cy="98" r="6" fill="#E18A7A"/>
+    <g>
+      <ellipse cx="154" cy="188" rx="27" ry="30" fill="#E9E2D6" stroke="#1A1A1A" stroke-width="2"/>
+      <path d="M127 186q3-31 29-33 27 5 27 30-12-11-24-8-15-10-32 11z" fill="#1A1A1A"/>
+      <path d="M119 268q4-47 23-58h27q24 14 26 58" fill="#6D7F66" opacity=".7" stroke="#1A1A1A" stroke-width="2"/>
+      <path d="M178 215l30-33M209 181l20 2" class="ink"/><path d="M218 172v21" class="fine"/>
+      <rect x="85" y="214" width="41" height="30" rx="3" fill="#F7F6F2" stroke="#1A1A1A"/>
+      <path d="M92 222h27M92 229h20M92 236h24" class="fine" stroke="#A7C2D6"/>
+    </g>
+    <rect x="37" y="247" width="190" height="25" rx="6" fill="#F7F6F2" stroke="#C8A96A"/><text x="50" y="264" class="label">Images opened a dialogue.</text>
+  </g>
+
+  <rect x="312" y="45" width="276" height="238" rx="9" fill="#F7F6F2" stroke="#C8A96A" stroke-width="1.2"/>
+  <g clip-path="url(#p2)">
+    <rect x="312" y="45" width="276" height="238" fill="url(#tone)"/>
+    <path d="M326 64h248v145H326z" fill="#A7C2D6" opacity=".14" stroke="#1A1A1A" stroke-width="1.4"/>
+    <path d="M343 194h214M360 194v-63h180v63" class="ink"/>
+    <path d="M375 178q5-49 33-58 29 10 34 58" fill="#E9E2D6" stroke="#1A1A1A" stroke-width="1.8"/>
+    <ellipse cx="408" cy="111" rx="25" ry="28" fill="#E9E2D6" stroke="#1A1A1A" stroke-width="1.8"/>
+    <path d="M383 110q4-28 26-29 25 4 25 27-12-9-24-6-13-8-27 8z" fill="#1A1A1A"/>
+    <path d="M431 136q30 2 48 18M479 154v31M470 185h18" class="ink"/>
+    <circle cx="480" cy="148" r="5" fill="#E18A7A" stroke="#1A1A1A"/>
+    <path d="M337 220q18-18 36 0 18-18 36 0 18-18 36 0 18-18 36 0 18-18 36 0 18-18 36 0 18-18 36 0" fill="#1A1A1A" opacity=".8"/>
+    <path d="M333 92l24 13M565 84l-22 17M340 72l28 6" class="gold"/>
+    <rect x="330" y="247" width="210" height="25" rx="6" fill="#F7F6F2" stroke="#C8A96A"/><text x="343" y="264" class="label">Ideas filled the auditorium.</text>
+  </g>
+
+  <rect x="604" y="45" width="276" height="238" rx="9" fill="#F7F6F2" stroke="#C8A96A" stroke-width="1.2"/>
+  <g clip-path="url(#p3)">
+    <rect x="604" y="45" width="276" height="238" fill="#E18A7A" opacity=".07"/>
+    <circle cx="842" cy="78" r="30" fill="#C8A96A" opacity=".17"/>
+    <path d="M622 238h241" class="ink"/>
+    <path d="M709 101h72v30h-72zM720 131h50v91h-50z" fill="#A7C2D6" opacity=".56" stroke="#1A1A1A" stroke-width="2"/>
+    <path d="M714 109h62M727 144h36" class="fine"/><text x="745" y="122" text-anchor="middle" class="tiny">CAMPUS</text>
+    <path d="M715 96q30-22 61 0" fill="#F7F6F2" stroke="#1A1A1A" stroke-width="1.6"/>
+    <path d="M731 133q14 17 29 0v75q-15 13-29 0z" fill="#E18A7A" opacity=".28" stroke="#E18A7A" stroke-width="1.5"/>
+    <path d="M746 155c-14-15-31 6 0 31 31-25 14-46 0-31z" fill="none" stroke="#E18A7A" stroke-width="2.4"/>
+    <path d="M650 110l45 82M669 110h-23M685 192h23" class="ink"/>
+    <g fill="#E18A7A" opacity=".75" stroke="#1A1A1A" stroke-width="1.2"><circle cx="653" cy="101" r="9"/><path d="M644 110h18l8 31h-33z"/></g>
+    <path d="M825 219q3-35 20-43 19 8 21 43" fill="#6D7F66" opacity=".65" stroke="#1A1A1A" stroke-width="1.7"/>
+    <circle cx="845" cy="165" r="17" fill="#E9E2D6" stroke="#1A1A1A" stroke-width="1.6"/><path d="M830 163q3-18 17-18 16 3 16 17" fill="#1A1A1A"/>
+    <path d="M804 80l-18 18M815 72l-8 25M864 100l-18 8" class="gold"/>
+    <rect x="619" y="247" width="232" height="25" rx="6" fill="#F7F6F2" stroke="#C8A96A"/><text x="631" y="264" class="label">Awareness became visible.</text>
+  </g>
+  <text x="450" y="310" text-anchor="middle" class="label">University was also a place for culture, communication and public engagement.</text>
+</svg>

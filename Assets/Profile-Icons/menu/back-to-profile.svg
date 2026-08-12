@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="44" viewBox="0 0 190 44" role="img" aria-labelledby="title">
+  <title id="title">Back to Profile</title>
+  <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F7F6F2" stop-opacity="0.97"/>
+      <stop offset="1" stop-color="#E9E2D6" stop-opacity="0.82"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.75" y="0.75" width="188.5" height="42.5" rx="12" fill="url(#glass)" stroke="#C8A96A" stroke-width="1.5"/>
+  <path d="M12 2h166" fill="none" stroke="#FFFFFF" stroke-linecap="round" opacity="0.72"/>
+  <g fill="none" stroke="#A7C2D6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m28 13-9 9 9 9"/>
+    <path d="M19 22h18"/>
+  </g>
+  <text x="47" y="27" fill="#1A1A1A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.1">BACK TO PROFILE</text>
+</svg>

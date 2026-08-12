@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Biology begins</title>
+  <desc id="desc">Three manga panels show André's early curiosity, arrival at UNESP and discovery of scientific method.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F7F6F2" stop-opacity="0.98"/>
+      <stop offset="1" stop-color="#E9E2D6" stop-opacity="0.88"/>
+    </linearGradient>
+    <pattern id="tone" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.8" fill="#1A1A1A" opacity="0.12"/>
+    </pattern>
+    <clipPath id="p1"><rect x="20" y="45" width="276" height="238" rx="9"/></clipPath>
+    <clipPath id="p2"><rect x="312" y="45" width="276" height="238" rx="9"/></clipPath>
+    <clipPath id="p3"><rect x="604" y="45" width="276" height="238" rx="9"/></clipPath>
+    <style>
+      .title{font:600 13px Georgia,serif;letter-spacing:2.2px;fill:#1A1A1A}.label{font:italic 12px Georgia,serif;fill:#1A1A1A}.tiny{font:600 10px Arial,sans-serif;letter-spacing:1.2px;fill:#1A1A1A}.ink{fill:none;stroke:#1A1A1A;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.fine{fill:none;stroke:#1A1A1A;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round}.motion{fill:none;stroke:#C8A96A;stroke-width:1.4;stroke-linecap:round;opacity:.72}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="898" height="328" rx="18" fill="url(#paper)" stroke="#C8A96A" stroke-width="1.5"/>
+  <text x="22" y="28" class="title">CHAPTER 02 · BIOLOGY BEGINS</text>
+  <path d="M692 27h184" stroke="#C8A96A" stroke-width="1" opacity=".8"/>
+
+  <rect x="20" y="45" width="276" height="238" rx="9" fill="#F7F6F2" stroke="#C8A96A" stroke-width="1.2"/>
+  <g clip-path="url(#p1)">
+    <circle cx="64" cy="79" r="30" fill="#C8A96A" opacity=".16"/>
+    <path d="M20 237c50-45 89-22 124-44s84-45 152-17v107H20z" fill="#6D7F66" opacity=".16"/>
+    <path d="M31 219c34-43 70-60 108-78M50 205c-2-20 4-34 19-44M91 177c0-18 8-31 23-40M232 195c1-24 12-44 34-59" class="fine" stroke="#6D7F66"/>
+    <g fill="#6D7F66" opacity=".78">
+      <ellipse cx="58" cy="169" rx="15" ry="7" transform="rotate(-35 58 169)"/><ellipse cx="82" cy="160" rx="14" ry="7" transform="rotate(28 82 160)"/>
+      <ellipse cx="107" cy="143" rx="14" ry="7" transform="rotate(-28 107 143)"/><ellipse cx="248" cy="158" rx="17" ry="8" transform="rotate(-38 248 158)"/>
+    </g>
+    <path d="M232 94c8-10 19-10 27 0-8 2-12 7-14 14-2-7-6-12-13-14z" fill="#A7C2D6" stroke="#1A1A1A" stroke-width="1.2"/>
+    <path d="M244 94v18" class="fine"/><path d="M43 110q10-13 20 0 10-13 20 0" class="fine"/>
+    <g>
+      <path d="M113 278q7-53 26-75 25-18 57-3 22 19 27 78" fill="#A7C2D6" opacity=".7" stroke="#1A1A1A" stroke-width="2"/>
+      <ellipse cx="166" cy="159" rx="38" ry="44" fill="#E9E2D6" stroke="#1A1A1A" stroke-width="2"/>
+      <path d="M130 157q2-46 38-48 37 3 38 41-11-16-28-12-21-16-48 19z" fill="#1A1A1A"/>
+      <path d="M140 130q18-18 39-14M149 122q18-12 35-5" class="motion"/>
+      <path d="M148 163q7-6 14 0M178 158q7-6 14 0" class="ink"/>
+      <circle cx="157" cy="164" r="2.5" fill="#1A1A1A"/><circle cx="187" cy="159" r="2.5" fill="#1A1A1A"/>
+      <path d="M163 184q10 5 18-2" class="fine"/>
+      <path d="M194 199q22-15 38-27" class="ink"/><circle cx="235" cy="169" r="3" fill="#E18A7A"/>
+    </g>
+    <rect x="34" y="247" width="144" height="25" rx="6" fill="#F7F6F2" stroke="#C8A96A"/>
+    <text x="47" y="264" class="label">Wonder came first.</text>
+  </g>
+
+  <rect x="312" y="45" width="276" height="238" rx="9" fill="#F7F6F2" stroke="#C8A96A" stroke-width="1.2"/>
+  <g clip-path="url(#p2)">
+    <rect x="312" y="45" width="276" height="238" fill="#A7C2D6" opacity=".12"/>
+    <path d="M329 157h242v92H329z" fill="#E9E2D6" stroke="#1A1A1A" stroke-width="1.6"/>
+    <path d="M342 157v-35h216v35M335 122h230l-22-24H357z" fill="#F7F6F2" stroke="#1A1A1A" stroke-width="1.6"/>
+    <text x="450" y="118" text-anchor="middle" class="tiny">UNESP</text>
+    <g stroke="#1A1A1A" stroke-width="1.2" fill="#A7C2D6" opacity=".65">
+      <rect x="350" y="174" width="32" height="52"/><rect x="397" y="174" width="32" height="52"/><rect x="519" y="174" width="32" height="52"/>
+    </g>
+    <path d="M320 249h260" class="ink"/><path d="M329 86l45 21M574 79l-44 26" class="motion"/>
+    <g>
+      <ellipse cx="466" cy="170" rx="28" ry="32" fill="#E9E2D6" stroke="#1A1A1A" stroke-width="2"/>
+      <path d="M438 167q5-34 30-34 28 4 29 32-12-12-24-9-16-12-35 11z" fill="#1A1A1A"/>
+      <path d="M431 251q3-49 18-57h36q19 14 21 57" fill="#F7F6F2" stroke="#1A1A1A" stroke-width="2"/>
+      <path d="M446 200l20 20 20-20M466 220v31" class="fine"/>
+      <path d="M427 207q-18 6-27 25" class="ink"/><path d="M505 205q18 5 27 24" class="ink"/>
+      <path d="M398 222h24v31h-24z" fill="#E18A7A" opacity=".65" stroke="#1A1A1A" stroke-width="1.3"/>
+    </g>
+    <rect x="335" y="247" width="142" height="25" rx="6" fill="#F7F6F2" stroke="#C8A96A"/>
+    <text x="350" y="264" class="label">Biology at UNESP.</text>
+  </g>
+
+  <rect x="604" y="45" width="276" height="238" rx="9" fill="#F7F6F2" stroke="#C8A96A" stroke-width="1.2"/>
+  <g clip-path="url(#p3)">
+    <rect x="604" y="45" width="276" height="238" fill="url(#tone)"/>
+    <path d="M620 235h244M735 235v36" class="ink"/>
+    <path d="M782 111h28v13h-28zM792 124v42M775 166h34l12 25M792 191v25M761 216h72" class="ink"/>
+    <circle cx="792" cy="97" r="15" fill="#A7C2D6" opacity=".7" stroke="#1A1A1A" stroke-width="2"/>
+    <path d="M764 95l20-18M781 77l18 7" class="ink"/>
+    <ellipse cx="792" cy="178" rx="14" ry="6" fill="#E18A7A" opacity=".55"/>
+    <g>
+      <ellipse cx="675" cy="137" rx="28" ry="32" fill="#E9E2D6" stroke="#1A1A1A" stroke-width="2"/>
+      <path d="M648 136q2-35 28-36 29 4 29 32-15-13-26-8-16-10-31 12z" fill="#1A1A1A"/>
+      <path d="M641 235q4-53 22-68h30q22 20 24 68" fill="#6D7F66" opacity=".65" stroke="#1A1A1A" stroke-width="2"/>
+      <path d="M694 178q21 6 52 24" class="ink"/><circle cx="747" cy="203" r="4" fill="#E9E2D6" stroke="#1A1A1A"/>
+    </g>
+    <path d="M625 211h92l14 24H625z" fill="#F7F6F2" stroke="#1A1A1A" stroke-width="1.5"/>
+    <path d="M641 218h52M641 225h64" class="fine" stroke="#A7C2D6"/>
+    <path d="M838 76l20-15M842 91l28-3M831 66l6-17" class="motion"/>
+    <rect x="621" y="247" width="211" height="25" rx="6" fill="#F7F6F2" stroke="#C8A96A"/>
+    <text x="636" y="264" class="label">Science gave structure to curiosity.</text>
+  </g>
+  <text x="450" y="310" text-anchor="middle" class="label">Curiosity became observation, method and purpose.</text>
+</svg>

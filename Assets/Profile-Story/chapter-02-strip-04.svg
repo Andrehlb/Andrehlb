@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Scientific initiation and discovery</title>
+  <desc id="desc">Three manga panels show André in a molecular biology laboratory, observing Drosophila polytene chromosomes and recognizing a fungal association.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7F6F2" stop-opacity=".98"/><stop offset="1" stop-color="#E9E2D6" stop-opacity=".88"/></linearGradient>
+    <pattern id="tone" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".8" fill="#1A1A1A" opacity=".11"/></pattern>
+    <clipPath id="p1"><rect x="20" y="45" width="276" height="238" rx="9"/></clipPath><clipPath id="p2"><rect x="312" y="45" width="276" height="238" rx="9"/></clipPath><clipPath id="p3"><rect x="604" y="45" width="276" height="238" rx="9"/></clipPath>
+    <style>.title{font:600 13px Georgia,serif;letter-spacing:1.9px;fill:#1A1A1A}.label{font:italic 12px Georgia,serif;fill:#1A1A1A}.tiny{font:600 9px Arial,sans-serif;letter-spacing:1px;fill:#1A1A1A}.ink{fill:none;stroke:#1A1A1A;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.fine{fill:none;stroke:#1A1A1A;stroke-width:1.15;stroke-linecap:round;stroke-linejoin:round}.gold{fill:none;stroke:#C8A96A;stroke-width:1.4;stroke-linecap:round}</style>
+  </defs>
+  <rect x="1" y="1" width="898" height="328" rx="18" fill="url(#paper)" stroke="#C8A96A" stroke-width="1.5"/>
+  <text x="22" y="28" class="title">SCIENTIFIC INITIATION · DISCOVERY</text><path d="M665 27h211" stroke="#C8A96A" opacity=".8"/>
+
+  <rect x="20" y="45" width="276" height="238" rx="9" fill="#F7F6F2" stroke="#C8A96A" stroke-width="1.2"/>
+  <g clip-path="url(#p1)">
+    <rect x="20" y="45" width="276" height="238" fill="#A7C2D6" opacity=".1"/>
+    <path d="M34 222h247M48 222V93h76M270 222V78h-65" class="ink"/>
+    <path d="M50 93h72v43H50z" fill="#F7F6F2" stroke="#1A1A1A" stroke-width="1.4"/><path d="M58 103h34M58 112h48M58 121h27" class="fine" stroke="#A7C2D6"/>
+    <path d="M219 91h37v22h-37zM224 113h27v56h-27z" fill="#E9E2D6" stroke="#1A1A1A" stroke-width="1.4"/><circle cx="237" cy="101" r="5" fill="#E18A7A"/>
+    <g>
+      <ellipse cx="145" cy="126" rx="26" ry="29" fill="#E9E2D6" stroke="#1A1A1A" stroke-width="1.8"/><path d="M119 125q3-29 27-31 26 4 26 28-12-10-23-7-14-9-30 10z" fill="#1A1A1A"/>
+      <path d="M107 222q4-54 25-69h28q25 18 28 69" fill="#F7F6F2" stroke="#1A1A1A" stroke-width="2"/><path d="M126 159l19 19 20-19M145 178v44" class="fine"/>
+      <path d="M180 171l35 20M111 173l-28 27" class="ink"/>
+    </g>
+    <path d="M191 197h69l9 25h-86z" fill="#1A1A1A" opacity=".86"/><rect x="199" y="173" width="55" height="31" rx="2" fill="#A7C2D6" opacity=".68" stroke="#1A1A1A" stroke-width="1.4"/><path d="M209 184h34M209 191h25" class="fine"/>
+    <path d="M62 187h45M70 176l7 11M88 171l4 16" class="fine"/><ellipse cx="64" cy="176" rx="6" ry="11" fill="#6D7F66" opacity=".7"/><ellipse cx="82" cy="168" rx="6" ry="13" fill="#6D7F66" opacity=".7"/>
+    <rect x="36" y="247" width="176" height="25" rx="6" fill="#F7F6F2" stroke="#C8A96A"/><text x="49" y="264" class="label">Questions entered the lab.</text>
+  </g>
+
+  <rect x="312" y="45" width="276" height="238" rx="9" fill="#F7F6F2" stroke="#C8A96A" stroke-width="1.2"/>
+  <g clip-path="url(#p2)">
+    <rect x="312" y="45" width="276" height="238" fill="url(#tone)"/>
+    <circle cx="448" cy="158" r="92" fill="#F7F6F2" stroke="#1A1A1A" stroke-width="2"/><circle cx="448" cy="158" r="82" fill="#A7C2D6" opacity=".15" stroke="#C8A96A" stroke-width="1.2"/>
+    <path d="M395 152c14-38 28-47 43-20s29 24 47-5M397 181c16-36 32-42 46-15s28 20 53-13" class="ink"/>
+    <g stroke="#1A1A1A" stroke-width="1.1" opacity=".85">
+      <path d="M405 136l14 8M414 126l14 8M425 121l13 9M443 131l13 7M461 137l14 2M476 132l12-6"/>
+      <path d="M406 166l14 8M417 156l13 9M430 156l13 10M448 168l13 7M466 171l14-1M483 163l11-8"/>
+    </g>
+    <g transform="translate(535 92)">
+      <ellipse cx="0" cy="12" rx="8" ry="15" fill="#1A1A1A"/><circle cx="0" cy="-1" r="7" fill="#E18A7A" stroke="#1A1A1A"/><path d="M-5 8l-18-13q-7 14 14 22M5 8L23-5q7 14-14 22M-3 25l-9 12M3 25l9 12" fill="#A7C2D6" opacity=".55" stroke="#1A1A1A" stroke-width="1.2"/>
+    </g>
+    <g transform="translate(354 78) scale(.72)"><ellipse cx="0" cy="12" rx="8" ry="15" fill="#1A1A1A"/><circle cx="0" cy="-1" r="7" fill="#E18A7A" stroke="#1A1A1A"/><path d="M-5 8l-18-13q-7 14 14 22M5 8L23-5q7 14-14 22" fill="#A7C2D6" opacity=".55" stroke="#1A1A1A" stroke-width="1.2"/></g>
+    <path d="M355 229h186" class="ink"/><path d="M370 211l30-18M529 207l-31-19" class="gold"/>
+    <rect x="327" y="247" width="188" height="25" rx="6" fill="#F7F6F2" stroke="#C8A96A"/><text x="340" y="264" class="label">Patterns emerged under glass.</text>
+  </g>
+
+  <rect x="604" y="45" width="276" height="238" rx="9" fill="#F7F6F2" stroke="#C8A96A" stroke-width="1.2"/>
+  <g clip-path="url(#p3)">
+    <rect x="604" y="45" width="276" height="238" fill="#C8A96A" opacity=".07"/>
+    <circle cx="764" cy="151" r="75" fill="#F7F6F2" stroke="#C8A96A" stroke-width="1.5"/>
+    <path d="M724 151c12-28 24-36 36-15s25 19 42-4M727 174c13-26 27-31 39-11s24 15 39-5" class="ink"/>
+    <g fill="none" stroke="#6D7F66" stroke-width="2" stroke-linecap="round">
+      <path d="M741 118q-18-25-29-6t-25-8M786 193q18 24 29 5t25 8M798 118q16-20 27-4"/>
+      <path d="M711 112l-6-10M711 112l10-4M815 198l8 10M815 198l-11 5M825 114l8-9"/>
+    </g>
+    <g fill="#6D7F66" opacity=".75"><circle cx="705" cy="102" r="4"/><circle cx="687" cy="104" r="3"/><circle cx="823" cy="208" r="4"/><circle cx="837" cy="207" r="3"/><circle cx="833" cy="104" r="4"/></g>
+    <g>
+      <ellipse cx="660" cy="166" rx="24" ry="27" fill="#E9E2D6" stroke="#1A1A1A" stroke-width="1.7"/><path d="M636 164q4-27 25-29 24 4 24 26-11-9-21-6-13-8-28 9z" fill="#1A1A1A"/>
+      <path d="M624 245q4-48 24-60h26q23 15 26 60" fill="#A7C2D6" opacity=".65" stroke="#1A1A1A" stroke-width="1.8"/>
+      <path d="M648 169q6-6 12 0M668 168q6-6 12 0" class="ink"/><circle cx="656" cy="169" r="2" fill="#1A1A1A"/><circle cx="676" cy="168" r="2" fill="#1A1A1A"/><path d="M657 180q8 6 15 0" class="fine"/>
+      <path d="M688 192l35-18" class="ink"/>
+    </g>
+    <path d="M713 79l-13-21M737 67l-4-25M807 73l15-21M832 89l23-12" class="gold"/>
+    <circle cx="740" cy="104" r="4" fill="#E18A7A"/><circle cx="804" cy="157" r="4" fill="#E18A7A"/>
+    <rect x="620" y="247" width="184" height="25" rx="6" fill="#F7F6F2" stroke="#C8A96A"/><text x="633" y="264" class="label">Observation became insight.</text>
+  </g>
+  <text x="450" y="310" text-anchor="middle" class="label">Research taught me how to investigate complexity.</text>
+</svg>
