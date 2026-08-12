@@ -57,12 +57,6 @@
   </a>
 </p>
 
-<br>
-
-```
-
-```
-
 <a id="easter-egg"></a>
 
 ## Easter Egg
