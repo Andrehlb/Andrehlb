@@ -38,16 +38,16 @@
 
 <p align="center">
   <a href="profile/story.md">
-    <img src="Assets/Profile-Icons/menu/story.svg" alt="Story" height="39">
+    <img src="Assets/Profile-Icons/menu/story.svg" alt="myStory" height="39">
   </a>
   <a href="profile/stack.md">
-    <img src="Assets/Profile-Icons/menu/stack.svg" alt="Stack" height="39">
+    <img src="Assets/Profile-Icons/menu/stack.svg" alt="myStack" height="39">
   </a>
   <a href="profile/projects.md">
-    <img src="Assets/Profile-Icons/menu/projects.svg" alt="Projects" height="39">
+    <img src="Assets/Profile-Icons/menu/projects.svg" alt="myProjects" height="39">
   </a>
   <a href="profile/credentials.md">
-    <img src="Assets/Profile-Icons/menu/credentials.svg" alt="Credentials" height="39">
+    <img src="Assets/Profile-Icons/menu/credentials.svg" alt="myCredentials" height="39">
   </a>
   <a href="#easter-egg">
     <img src="Assets/Profile-Icons/menu/easter-egg.svg" alt="Easter Egg" height="39">
