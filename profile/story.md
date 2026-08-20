@@ -10,9 +10,10 @@
 # My Story
 
 A good journey does not always begin with code.
-Mine began with curiosity.
 
----
+Mine began with curiosity, long before it became software.
+
+From life sciences to intelligent systems, the path changed — but the impulse remained the same: to understand complex systems and build something meaningful from them.
 
 ## Chapter 01 — The boy who loved life
 
@@ -42,7 +43,7 @@ University gave structure to what had once been instinct. There, I learned that 
   <img src="../Assets/Profile-Story/chapter-02-strip-02.png" alt="Chapter 02 manga strip 02" width="900">
 </p>
 
-That period was also full of movement. I helped bring culture into the academic space, including a Sebastião Salgado exhibition and a lecture with Jô Soares. I took part in public actions that turned the campus into a place of awareness, creativity and participation — even helping cover the institute’s water tower with a giant condom during an AIDS prevention campaign, with support from the fire department.
+That period was also full of movement. I helped bring culture into the academic space, including a Sebastião Salgado exhibition and a lecture with Jô Soares. I took part in public actions that turned the campus into a place of awareness, creativity and participation — even helping cover the institute’s water tower with a giant condom during an AIDS prevention campaign, with support from the fire department and the SESC from São José do Rio Preto, SP.
 
 <p align="center">
   <img src="../Assets/Profile-Story/chapter-02-strip-03.png" alt="Chapter 02 manga strip 03" width="900">
