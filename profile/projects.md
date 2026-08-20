@@ -8,7 +8,7 @@
   <a href="../readme.md#contact">Contact</a>
 </p>
 
-# Selected Projects
+# My Projects
 
 ### Portal de Venda de Ingressos
 

@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# Story
+# My Story
 
 A good journey does not always begin with code.
 Mine began with curiosity.
