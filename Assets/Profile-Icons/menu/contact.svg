@@ -12,5 +12,5 @@
     <path d="m12.5 20 25-8-8 25-5.5-11.5z" fill="#A7C2D6" fill-opacity="0.13"/>
     <path d="m24 25.5 13.5-13.5M24 25.5l1 7"/>
   </g>
-  <text x="47" y="27" fill="#1A1A1A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">myContacts</text>
+  <text x="47" y="27" fill="#1A1A1A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="0.5">myContacts</text>
 </svg>
