@@ -8,105 +8,105 @@
 </p>
 
 <p align="center">
-  [ <a href="stack.md"><strong>PT-BR</strong></a> ]
-  [ <a href="stack-en-us.md">EN-US</a> ]
+  [ <a href="stack.md">PT-BR</a> ]
+  [ <a href="stack-en-us.md"><strong>EN-US</strong></a> ]
   [ <a href="stack-es-419.md">ES-419</a> ]
   [ <a href="stack-zh-cn.md">中文 / ZH-CN</a> ]
 </p>
 
-<h1 align="center">Minha Stack — Em Construção 🚧</h1>
+<h1 align="center">My Stack — Under Construction 🚧</h1>
 
 <p align="center">
-  Tecnologias que uso para transformar ideias em aplicações, dados, automações e infraestrutura.
+  Technologies I use to turn ideas into applications, data, automation, and infrastructure.
 </p>
 
 ---
 
-## 💻 Linguagens & Fundamentos
+## 💻 Languages & Fundamentals
 
 `Python` · `Java` · `Kotlin` · `JavaScript` · `TypeScript` · `Dart` · `C` · `R` · `SQL`
 
-**Uso:** Lógica, algoritmos e construção de aplicações.
+**Use:** Logic, algorithms, and application development.
 
 ## 🌐 Frontend
 
 `React` · `Next.js` · `HTML` · `CSS` · `Streamlit` · `Tailwind CSS`
 
-**Uso:** Interfaces web e apresentação interativa de dados e IA.
+**Use:** Web interfaces and interactive presentations of data and AI.
 
 ## ⚙️ Backend & APIs
 
 `Node.js` · `Express` · `Spring Boot` · `FastAPI` · `REST APIs`
 
-**Uso:** Serviços, regras de negócio e integração entre aplicações.
+**Use:** Services, business logic, and application integration.
 
 ## 📱 Mobile
 
 `Android` · `Kotlin` · `Flutter` · `Dart` · `MVVM` · `Provider` · `GoRouter` · `Jetpack` · `Retrofit`
 
-**Uso:** Aplicativos, navegação, estado e consumo de APIs.
+**Use:** Apps, navigation, state management, and API consumption.
 
 ## 🔌 Embedded
 
 `Embedded Systems`
 
-**Uso:** Integração entre software e dispositivos.
+**Use:** Integration between software and devices.
 
-## 🤖 IA & Machine Learning
+## 🤖 AI & Machine Learning
 
 `LLMs` · `IBM watsonx.ai` · `scikit-learn` · `Azure AI` · `OpenAI` · `LangChain` · `LangGraph` · `Prompt Engineering`
 
-**Uso:** Produtos com IA, estudos de ML e exploração de IA generativa.
+**Use:** AI-powered products, ML studies, and generative AI exploration.
 
 ## 📊 Data & Analytics
 
 `Pandas` · `Power BI` · `Jupyter` · `Data Analysis` · `Machine Learning` · `Data Pipelines` · `Apache Airflow`
 
-**Uso:** Análise, visualização e orquestração de dados.
+**Use:** Data analysis, visualization, and orchestration.
 
-## 🗄️ Bancos de Dados
+## 🗄️ Databases
 
 `PostgreSQL` · `SQLite` · `MySQL`
 
-**Uso:** Persistência de aplicações e estudos de modelagem e SQL.
+**Use:** Application data persistence and studies in data modeling and SQL.
 
 ## ☁️ Cloud
 
 `AWS` · `Azure` · `GCP` · `EC2` · `RDS` · `Lambda` · `CloudTrail` · `IAM` · `VPC` · `S3`
 
-**Uso:** Labs de infraestrutura, serviços gerenciados e experimentos de integração.
+**Use:** Infrastructure labs, managed services, and integration experiments.
 
 ## 🔄 DevOps & CI/CD
 
 `Git` · `GitHub` · `Jenkins` · `Docker` · `Kubernetes` · `Terraform` · `Gradle` · `Maven`
 
-**Uso:** Versionamento e organização do fluxo de desenvolvimento.
+**Use:** Version control and development workflow organization.
 
-## 🌐 Redes & Infraestrutura
+## 🌐 Networking & Infrastructure
 
 `Networking` · `Linux` · `Nginx` · `Cloudflare Tunnel` · `DNS` · `TLS/HTTPS` · `SSH`
 
-**Uso:** Labs de rede e acesso seguro a instâncias cloud.
+**Use:** Networking labs and secure access to cloud instances.
 
-## 🧪 Testes & Qualidade
+## 🧪 Testing & Quality
 
 `JUnit` · `Espresso` · `Node Test Runner` · `Unit Tests`
 
-**Prática:** Testes em exercícios Kotlin e estudos de backend Java.
+**Practice:** Testing in Kotlin exercises and Java backend studies.
 
-## 🛠️ Ferramentas & Ambiente
+## 🛠️ Tools & Environment
 
 `VS Code` · `GitHub` · `Gerrit` · `Jira` · `PowerShell` · `Bash` · `Swagger`
 
-**Uso:** Edição de código e organização dos projetos.
+**Use:** Code editing and project organization.
 
 ---
 
-## 🔗 Tecnologias Transversais
+## 🔗 Cross-Cutting Technologies
 
-- `Python` → IA · Dados · Automação · Backend
+- `Python` → AI · Data · Automation · Backend
 - `Java` → Backend · Android
 - `Kotlin` → Android · Mobile
-- `SQL` → Backend · Dados
+- `SQL` → Backend · Data
 - `Docker` → Backend · DevOps · Cloud
-- `Git` → todo o fluxo de desenvolvimento
+- `Git` → the entire development workflow
