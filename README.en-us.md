@@ -25,8 +25,8 @@
 </p>
 
 <p align="center">
-  [ <a href="readme.md"><strong>PT-BR</strong></a> ]
-  [ <a href="README.en-us.md">EN-US</a> ]
+  [ <a href="readme.md">PT-BR</a> ]
+  [ <a href="README.en-us.md"><strong>EN-US</strong></a> ]
   [ <a href="README.es-419.md">ES-419</a> ]
   [ <a href="README.zh-cn.md">中文 / ZH-CN</a> ]
 </p>
@@ -34,33 +34,33 @@
 <h1 align="center">André Luiz Barbosa</h1>
 
 <p align="center">
-  <strong>Android & Embedded • IA/Dados • Cloud • Full Stack</strong>
+  <strong>Android & Embedded • AI/Data • Cloud • Full Stack</strong>
 </p>
 
 <p align="center">
-  Construindo tecnologia útil, elegante e centrada nas pessoas.
+  Building useful, elegant, and human-centered technology.
 </p>
 
 <br>
 
 <p align="center">
   <a href="profile/story.md">
-    <img src="Assets/Profile-Icons/menu/story.svg" alt="História" height="39">
+    <img src="Assets/Profile-Icons/menu/story.svg" alt="Story" height="39">
   </a>
-  <a href="profile/stack.md">
+  <a href="profile/stack-en-us.md">
     <img src="Assets/Profile-Icons/menu/stack.svg" alt="Stack" height="39">
   </a>
-  <a href="profile/projects.md">
-    <img src="Assets/Profile-Icons/menu/projects.svg" alt="Projetos" height="39">
+  <a href="profile/projects-en-us.md">
+    <img src="Assets/Profile-Icons/menu/projects.svg" alt="Projects" height="39">
   </a>
-  <a href="profile/credentials.md">
-    <img src="Assets/Profile-Icons/menu/credentials.svg" alt="Credenciais" height="39">
+  <a href="profile/credentials-en-us.md">
+    <img src="Assets/Profile-Icons/menu/credentials.svg" alt="Credentials" height="39">
   </a>
   <a href="#easter-egg">
     <img src="Assets/Profile-Icons/menu/easter-egg.svg" alt="Easter Egg" height="39">
   </a>
   <a href="#contact">
-    <img src="Assets/Profile-Icons/menu/contact.svg" alt="Contato" height="39">
+    <img src="Assets/Profile-Icons/menu/contact.svg" alt="Contact" height="39">
   </a>
 </p>
 
@@ -69,18 +69,18 @@
 ## Easter Egg
 
 <p align="center">
-  <strong>Um desvio divertido está escondido neste portfólio.</strong>
+  <strong>A playful detour is hidden inside this portfolio.</strong>
 </p>
 
 <p align="center">
-  Colete tokens de tecnologia, descubra projetos e mantenha a trilha viva.
+  Collect tech tokens, discover projects, and keep the trail alive.
 </p>
 
 <p align="center">
   <a href="https://andrehlb.github.io/snake-game/?return=https://github.com/Andrehlb%23easter-egg">
     <img
       src="Assets/Profile-Icons/menu/easter-egg.svg"
-      alt="Jogar Snake"
+      alt="Play Snake"
       height="56"
     >
   </a>
@@ -88,7 +88,7 @@
 
 <a id="contact"></a>
 
-## Contato
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrehlb/">
@@ -101,7 +101,7 @@
     <img src="Assets/Profile-Icons/contact/github-pages.svg" alt="GitHub Pages" height="40">
   </a>
   <a href="mailto:andrehlb@yahoo.com">
-    <img src="Assets/Profile-Icons/contact/yahoo.svg" alt="E-mail Yahoo" height="40">
+    <img src="Assets/Profile-Icons/contact/yahoo.svg" alt="Yahoo email" height="40">
   </a>
   <a href="mailto:andrehlbarbosa@gmail.com">
     <img src="Assets/Profile-Icons/contact/gmail.svg" alt="Gmail" height="40">
@@ -110,6 +110,6 @@
 
 <br>
 
-## Licença
+## License
 
-Este repositório de perfil é disponibilizado sob a [licença MIT](LICENSE).
+This profile repository is released under the [MIT License](LICENSE).

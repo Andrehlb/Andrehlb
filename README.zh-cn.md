@@ -25,62 +25,62 @@
 </p>
 
 <p align="center">
-  [ <a href="readme.md"><strong>PT-BR</strong></a> ]
+  [ <a href="readme.md">PT-BR</a> ]
   [ <a href="README.en-us.md">EN-US</a> ]
   [ <a href="README.es-419.md">ES-419</a> ]
-  [ <a href="README.zh-cn.md">中文 / ZH-CN</a> ]
+  [ <a href="README.zh-cn.md"><strong>中文 / ZH-CN</strong></a> ]
 </p>
 
 <h1 align="center">André Luiz Barbosa</h1>
 
 <p align="center">
-  <strong>Android & Embedded • IA/Dados • Cloud • Full Stack</strong>
+  <strong>Android & Embedded • 人工智能/数据 • Cloud • Full Stack</strong>
 </p>
 
 <p align="center">
-  Construindo tecnologia útil, elegante e centrada nas pessoas.
+  打造实用、优雅、以人为本的技术。
 </p>
 
 <br>
 
 <p align="center">
   <a href="profile/story.md">
-    <img src="Assets/Profile-Icons/menu/story.svg" alt="História" height="39">
+    <img src="Assets/Profile-Icons/menu/story.svg" alt="我的故事" height="39">
   </a>
-  <a href="profile/stack.md">
-    <img src="Assets/Profile-Icons/menu/stack.svg" alt="Stack" height="39">
+  <a href="profile/stack-zh-cn.md">
+    <img src="Assets/Profile-Icons/menu/stack.svg" alt="技术栈" height="39">
   </a>
-  <a href="profile/projects.md">
-    <img src="Assets/Profile-Icons/menu/projects.svg" alt="Projetos" height="39">
+  <a href="profile/projects-zh-cn.md">
+    <img src="Assets/Profile-Icons/menu/projects.svg" alt="项目" height="39">
   </a>
-  <a href="profile/credentials.md">
-    <img src="Assets/Profile-Icons/menu/credentials.svg" alt="Credenciais" height="39">
+  <a href="profile/credentials-zh-cn.md">
+    <img src="Assets/Profile-Icons/menu/credentials.svg" alt="资历与证书" height="39">
   </a>
   <a href="#easter-egg">
-    <img src="Assets/Profile-Icons/menu/easter-egg.svg" alt="Easter Egg" height="39">
+    <img src="Assets/Profile-Icons/menu/easter-egg.svg" alt="彩蛋" height="39">
   </a>
   <a href="#contact">
-    <img src="Assets/Profile-Icons/menu/contact.svg" alt="Contato" height="39">
+    <img src="Assets/Profile-Icons/menu/contact.svg" alt="联系" height="39">
   </a>
 </p>
 
 <a id="easter-egg"></a>
 
-## Easter Egg
+## 彩蛋
 
 <p align="center">
-  <strong>Um desvio divertido está escondido neste portfólio.</strong>
+  <strong>这个作品集中藏着一段有趣的探索之旅。</strong>
 </p>
 
 <p align="center">
-  Colete tokens de tecnologia, descubra projetos e mantenha a trilha viva.
+  收集技术代币，发现项目，让探索继续。
 </p>
 
 <p align="center">
   <a href="https://andrehlb.github.io/snake-game/?return=https://github.com/Andrehlb%23easter-egg">
     <img
       src="Assets/Profile-Icons/menu/easter-egg.svg"
-      alt="Jogar Snake"
+      alt="玩 Snake"
       height="56"
     >
   </a>
@@ -88,7 +88,7 @@
 
 <a id="contact"></a>
 
-## Contato
+## 联系
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrehlb/">
@@ -101,7 +101,7 @@
     <img src="Assets/Profile-Icons/contact/github-pages.svg" alt="GitHub Pages" height="40">
   </a>
   <a href="mailto:andrehlb@yahoo.com">
-    <img src="Assets/Profile-Icons/contact/yahoo.svg" alt="E-mail Yahoo" height="40">
+    <img src="Assets/Profile-Icons/contact/yahoo.svg" alt="Yahoo 邮箱" height="40">
   </a>
   <a href="mailto:andrehlbarbosa@gmail.com">
     <img src="Assets/Profile-Icons/contact/gmail.svg" alt="Gmail" height="40">
@@ -110,6 +110,6 @@
 
 <br>
 
-## Licença
+## 许可证
 
-Este repositório de perfil é disponibilizado sob a [licença MIT](LICENSE).
+本个人资料仓库采用 [MIT 许可证](LICENSE)发布。
