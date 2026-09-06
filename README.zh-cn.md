@@ -44,7 +44,7 @@
 <br>
 
 <p align="center">
-  <a href="profile/story.md">
+  <a href="profile/story-zh-cn.md">
     <img src="Assets/Profile-Icons/menu/story.svg" alt="我的故事" height="39">
   </a>
   <a href="profile/stack-zh-cn.md">
