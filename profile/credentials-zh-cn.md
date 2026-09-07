@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="../readme.md">
-    <img src="../Assets/Profile-Icons/menu/back-to-profile.svg" alt="Back to Profile" height="26">
+  <a href="../README.zh-cn.md">
+    <img src="../Assets/Profile-Icons/menu/back-to-profile.svg" alt="返回个人主页" height="26">
   </a>
-  <a href="../readme.md#contact">
-    <img src="../Assets/Profile-Icons/menu/contact.svg" alt="Contact" height="26">
+  <a href="../README.zh-cn.md#contact">
+    <img src="../Assets/Profile-Icons/menu/contact.svg" alt="联系" height="26">
   </a>
 </p>
 

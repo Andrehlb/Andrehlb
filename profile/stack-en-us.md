@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="../readme.md">
+  <a href="../README.en-us.md">
     <img src="../Assets/Profile-Icons/menu/back-to-profile.svg" alt="Back to Profile" height="26">
   </a>
-  <a href="../readme.md#contact">
+  <a href="../README.en-us.md#contact">
     <img src="../Assets/Profile-Icons/menu/contact.svg" alt="Contact" height="26">
   </a>
 </p>

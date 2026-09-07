@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="../readme.md">
-    <img src="../Assets/Profile-Icons/menu/back-to-profile.svg" alt="Volver al perfil" height="39">
+  <a href="../README.es-419.md">
+    <img src="../Assets/Profile-Icons/menu/back-to-profile.svg" alt="Volver al perfil" height="26">
   </a>
-  <a href="../readme.md#contact">
-    <img src="../Assets/Profile-Icons/menu/contact.svg" alt="Contacto" height="39">
+  <a href="../README.es-419.md#contact">
+    <img src="../Assets/Profile-Icons/menu/contact.svg" alt="Contacto" height="26">
   </a>
 </p>
 
