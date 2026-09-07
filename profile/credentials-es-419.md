@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="../README.es-419.md">
+  <a href="https://github.com/Andrehlb/Andrehlb/blob/main/README.es-419.md">
     <img src="../Assets/Profile-Icons/menu/back-to-profile.svg" alt="Volver al perfil" height="26">
   </a>
   <a href="../README.es-419.md#contact">

@@ -1,7 +1,7 @@
 <!-- Canonical content: projects.md (PT-BR). Keep project inventory synchronized across language versions. -->
 
 <p align="center">
-  <a href="../README.en-us.md">
+  <a href="https://github.com/Andrehlb/Andrehlb/blob/main/README.en-us.md">
     <img src="../Assets/Profile-Icons/menu/back-to-profile.svg" alt="Back to Profile" height="26">
   </a>
   <a href="../README.en-us.md#contact">

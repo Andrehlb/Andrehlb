@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="../readme.md">
+  <a href="https://github.com/Andrehlb">
     <img src="../Assets/Profile-Icons/menu/back-to-profile.svg" alt="Voltar ao perfil" height="26">
   </a>
   <a href="../readme.md#contact">
